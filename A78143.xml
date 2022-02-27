@@ -1,0 +1,1441 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The measurer's guide: or, the whole art of measuring made short, plain and easie Shewing, 1. How to measure any plain superficies. 2. How to measure all sorts of regular solids. 3. The art of gaugeing. 4. How to measure artificers work, viz. carpenters, joyners, plasterers, painters, paviers, glaziers, bricklayers, tylors, &amp;c. of singuler use to all gentlmen, artificers and others. By John Barker.</title>
+            <author>Barker, John, writer on fortification.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 100 KB of XML-encoded text transcribed from 75 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78143</idno>
+            <idno type="STC">Wing B771A</idno>
+            <idno type="STC">ESTC R228729</idno>
+            <idno type="EEBO-CITATION">99897438</idno>
+            <idno type="PROQUEST">99897438</idno>
+            <idno type="VID">133472</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78143)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133472)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2488:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The measurer's guide: or, the whole art of measuring made short, plain and easie Shewing, 1. How to measure any plain superficies. 2. How to measure all sorts of regular solids. 3. The art of gaugeing. 4. How to measure artificers work, viz. carpenters, joyners, plasterers, painters, paviers, glaziers, bricklayers, tylors, &amp;c. of singuler use to all gentlmen, artificers and others. By John Barker.</title>
+                  <author>Barker, John, writer on fortification.</author>
+               </titleStmt>
+               <extent>[12], 130, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Tho. Salusbury, at the King's Armes, next Cliffords Inn-Lane, by St. Dunstan's Church in Fleet-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a final advertisement leaf.</note>
+                  <note>Date of publication from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mensuration --  Early works to 1800.</term>
+               <term>Mensuration --  Conversion tables --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:133472:1"/>
+            <pb facs="tcp:133472:1" rendition="simple:additions"/>
+            <p> THE MEASURER's GUIDE: OR, THE Whole ART OF <hi rend="blackletterType">Meaſuring</hi> MADE Short, Plain and Eaſie.</p>
+            <p>SHEWING,</p>
+            <list>
+               <item>1. How to Meaſure any Plain Superficies.</item>
+               <item>2. How to Meaſure all ſorts of Regular Solids.</item>
+               <item>3. The Art of <hi>Gaugeing.</hi>
+               </item>
+               <item>4. How to Meaſure Artificers Work, <hi>viz. Carpenters, Joyners, Plaſterers, Painters, Pa<g ref="char:EOLhyphen"/>viers, Glaziers, Bricklayers, Tylors,</hi> &amp;c. of Sing<g ref="char:EOLhyphen"/>uler uſe to all Gentlmen, Artificers and others.</item>
+            </list>
+            <p>
+               <hi>By</hi> JOHN BARKER.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Tho. Salusbury,</hi> at the <hi>King's Armes,</hi> next <hi>Cliffords</hi> Inn-Lane, by St. <hi>Dunſtan's</hi> Church in <hi>Fleet-ſtreet.</hi>
+            </p>
+            <pb facs="tcp:133472:2" rendition="simple:additions"/>
+            <pb facs="tcp:133472:2"/>
+            <pb facs="tcp:133472:3" rendition="simple:additions"/>
+            <pb facs="tcp:133472:3" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:133472:4"/>
+            <pb facs="tcp:133472:4"/>
+         </div>
+         <div type="dedication">
+            <head>TO <hi>EDW. H<g ref="char:V">Ʋ</g>BBALD</hi> Gent.</head>
+            <p>THIS Small Trea<g ref="char:EOLhyphen"/>tiſe of Meaſuring, is Humbly preſented, and Dedicated; By,</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>
+                  <hi>Your Kinſman,</hi> and <hi>Humble Servant,</hi> J. BARKER,</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:133472:5"/>
+            <head>To the <hi>READER.</hi>
+            </head>
+            <p>THE Art of <hi>Meaſure<g ref="char:EOLhyphen"/>ing</hi> is of ſuch Singular Uſe to all Sorts of Perſons, that to ſay any thing of it, would be to as little Purpoſe, as to tell any Perſon it is day, when the <hi>Sun</hi> is in the <hi>Meridian.</hi> As to this Small <hi>Treatiſe,</hi> the Me<g ref="char:EOLhyphen"/>thod I have uſed therein is both <hi>Short, Plain,</hi> and <hi>Eaſy;</hi> So that the Meaneſt <hi>Capacity</hi> may Attain to <hi>Meaſure,</hi> without the help of a Maſter; There being more Variety in this than in any other Book that is yet Extant, which Treats upon this <hi>Subject.</hi> In the firſt two <hi>Chapter,</hi> I have Shewed bow to <hi>Meaſure</hi> any ſort
+<pb facs="tcp:133472:5"/> of <hi>Superficies,</hi> and <hi>Solids</hi> of what Form ſoever. Wherein I have ſet forth the great <hi>Errors</hi> committed by the Common <hi>Mea<g ref="char:EOLhyphen"/>ſurers,</hi> in <hi>Meaſuring</hi> of Round Timber. In the Third <hi>Chapter,</hi> I have <hi>Taught</hi> how to <hi>Gauge</hi> any ſort of Veſſel. And in the Fourth <hi>Chapter</hi> I have given In<g ref="char:EOLhyphen"/>ſtructions how to <hi>Meaſure</hi> all <hi>Artificers Work,</hi> where I alſo ſhew how to find the <hi>Superficial Content</hi> of any <hi>Regular Solid;</hi> All which is Performed without the help of <hi>Tables:</hi> For many Times he that uſes himſelf to <hi>Meaſure</hi> by the help of <hi>Tables,</hi> can Perform nothing without 'em; farther, if he leaves his <hi>Tables</hi> behind him, or that they come by
+<pb facs="tcp:133472:6"/> any <hi>Miſchance,</hi> he is Infinite<g ref="char:EOLhyphen"/>ly at a <hi>Loſs,</hi> inſomuch as he can do nothing; and ſuch a Perſon had as good leave his Brains behind him. Whereas any Perſon may eaſily carry all the Rules here De<g ref="char:EOLhyphen"/>livered in his Head, and thereby <hi>Meaſure</hi> any thing with as much eaſe and expedition as by moſt <hi>Tables.</hi> All that I ſhall Add is this, that as I have been per<g ref="char:EOLhyphen"/>ſwaded, after many Importunities, to Publiſh theſe few Sheets for Publick Good, So if the <hi>Reader</hi> Reap any Benifit thereby I have my Ends, in proveing Servica<g ref="char:EOLhyphen"/>ble to the General Advantage of my Country.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:133472:6"/>
+            <head>THE CONTENTS.</head>
+            <p>
+               <list>
+                  <item> HOW to Meaſure any Plain Su<g ref="char:EOLhyphen"/>perfices, pag. 1.</item>
+                  <item> How to find the Superficial Content, of a Geometrical Square pag. 1</item>
+                  <item> How to find the Superficial Content of a Paralleogram, or Long Square pag. 2</item>
+                  <item> How to find how much in Length of any Long Square Superfices, goes to make a Superficial Foot pag. 9</item>
+                  <item> How to find the Superficial Content of a Right lined Triangle pag. 7</item>
+                  <item> How to find the Superficial Content of a Poligon, or any Equal ſided Superfices pag. 9</item>
+                  <item> How to find the Superficial Content of a Trapezium, or Table pag. 11</item>
+                  <item> How to Reduce Irregular Figures into Trapeziums and Triangles, and to find the Content thereof pag. 14</item>
+                  <item> By the Diamitre of a Circle, to find the Circumference pag. 15</item>
+                  <item> How by the Circumference of the Circle, given to find the Diamitre pag. 16</item>
+                  <item> How to find the Content of a Circle, having the Diamitre and Circumference gi<g ref="char:EOLhyphen"/>ven pag. 17</item>
+                  <pb facs="tcp:133472:7"/>
+                  <item> How to find the Superficial Content of a Circle, having only the Diamitre gi<g ref="char:EOLhyphen"/>ven pag. 18</item>
+                  <item> How to find the Superficial Conetnt of a Circle, having the Circumferance only given pag. 20</item>
+                  <item> How by the Content of a Circle given, to find the ſide of a Square, the Superfi<g ref="char:EOLhyphen"/>cial Content of which Square ſhall be equal to the Superficial Content of the Circle pag. 21</item>
+                  <item> How by the Circumference of a Circle given to find the ſide of an Inſcribed Square pag. 22</item>
+                  <item> By the Diamitre of a Circle given, to find the ſide of an Inſcribed Square pag. 23</item>
+                  <item> How to find the Superficial Content of an Oval pag. 23</item>
+                  <item> How to Meaſure all ſorts of Regular Solids pag. 25</item>
+                  <item> How to find the Solid Content of a Cube pag. 25</item>
+                  <item> How to find the Solid Content of a Cube pag. 25</item>
+                  <item> How to find the Solid Content of Paralle<g ref="char:EOLhyphen"/>lepidon or Long Square pag. 27</item>
+                  <item> How to find the Solid Content of Cilinder pag. 28</item>
+                  <item> How to know how much in Length of any Solid Body, having equal Baſes, goes to make a Solid Foot thereof pag. 34</item>
+                  <item> How to find the Solid Content of a Cone pag. 35</item>
+                  <pb facs="tcp:133472:7"/>
+                  <item> How to find the Solid Content of a Pira<g ref="char:EOLhyphen"/>mid pag. 37</item>
+                  <item> How to find the Solid Content of the Seg<g ref="char:EOLhyphen"/>ment of a Cone or Piramid pag. 39</item>
+                  <item> How to find the Sold Content of a Globe, or Sphere, the Diamitre being given pag. 42</item>
+                  <item> How to find the ſold Content of a Globe or Sphere, the Circumference being given pag. 43</item>
+                  <item> How to find the Solid Content of any So<g ref="char:EOLhyphen"/>lid Body of what form ſoever, ſuch as Geometry can give no Rule for the Mea<g ref="char:EOLhyphen"/>ſuring thereof pag. 44</item>
+                  <item> Of GA<g ref="char:V">Ʋ</g>GING pag. 46</item>
+                  <item> How to Gauge a Cubical Veſſel pag. 46</item>
+                  <item> For <hi>Ale, Beer,</hi> or <hi>Wine</hi> pag. 49</item>
+                  <item> How to find the Content of a Square Veſſel in Gallons of <hi>Ale</hi> or <hi>Wine</hi> pag. 49</item>
+                  <item> How to Perform the ſame by the Line of Numbers pag. 52</item>
+                  <item> How to find the Content of a Cylinder Veſ<g ref="char:EOLhyphen"/>ſel in Gallons of <hi>Ale, Beer</hi> or <hi>Wine</hi> pag. 53</item>
+                  <item> How to perform the ſame by the Line of Numbers pag. 56</item>
+                  <item> How to find the Content of any Pipe, Butt, Barrel, Hogſhead or Caſk, pag. 37</item>
+                  <item> How to Perform the ſame by the Line of Numbers pag. 61</item>
+                  <item> How to Meaſure Brewers Tuns or March Fatts pag. 62</item>
+                  <pb facs="tcp:133472:8"/>
+                  <item> How to Perform the ſame by the Line of Numbers pag. 67</item>
+                  <item> How to Meaſure an Oval Tun pag. 68</item>
+                  <item> How to Perform the ſame by the Line of Numbers pag. 70</item>
+                  <item> How to turn Barrels into Gallons, Beer Meaſure pag. 71</item>
+                  <item> How to Perform the ſame by the Line of Numbers pag. 72</item>
+                  <item> How to turn Gallons of <hi>Beer</hi> or <hi>Ale</hi> into <hi>Wine</hi> pag. 72</item>
+                  <item> How to Perform the ſame by the Line of Numbers pag. 73</item>
+                  <item> How to turn Gallons of <hi>Ale</hi> into Barrels pag. 75</item>
+                  <item> How to Perform the ſame by the Line of Numbers pag. 76</item>
+                  <item> How to Gauge a Ship, and thereby to find how many Tuns her Burthen is pag. 76</item>
+                  <item> Of Meaſuring Artificers VVork <hi>viz. Carpenters, Joyners, Plaſterers, Painters, Paviors, Glaſiers, Brick<g ref="char:EOLhyphen"/>laiers</hi> &amp;c. pag. 77</item>
+                  <item> How to Meaſure <hi>Carpenters</hi> Work pag. 82</item>
+                  <item> How to Meaſure the Roof of any Build<g ref="char:EOLhyphen"/>ing pag. 87</item>
+                  <item> How to Meaſure the ſides of any Timber Building pag. 88</item>
+                  <item> How to Meaſure <hi>Paving, Painting, Wainſcoting</hi> and <hi>Plaſtring,</hi> &amp;c. pag. 91</item>
+                  <pb facs="tcp:133472:8"/>
+                  <item> How to find the Superficial Conten<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of a Cylinder pag. 91</item>
+                  <item> How to find the Superficial Content of a Paralleleppidon or Square Piller pag. 98</item>
+                  <item> How to find the Superficial Content of a Cone. pag. 98</item>
+                  <item> How to find the Superficial Content of a Piramid pag. 99</item>
+                  <item> How to find the Superficial Content of a Globe or Sphere pag. 99</item>
+                  <item> How to Meaſure Glaziers Work pag. 99</item>
+                  <item> How to Meaſure Bricklaiers Work pag. 104</item>
+                  <item> How to Meaſure Chimnies pag. 125</item>
+                  <item> How to Meaſure Tyling pag. 128</item>
+               </list>
+            </p>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:133472:9"/>
+            <head>ERRATA.</head>
+            <p>Pag. 1. in the Title, Inſtead of <hi>Superfices,</hi> Read <hi>Superficies.</hi> P. 54. L. 5. for 44. 64 <hi>Inches,</hi> Read 4464. P. 25. L 5. for <hi>Superfices</hi> Read <hi>Super<g ref="char:EOLhyphen"/>ficies.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:133472:9"/>
+            <head>THE <hi>MEASURER's GUIDE:</hi> OR, THE Whole ART OF <hi rend="blackletterType">Meaſuring</hi> MADE Short, Plain and Eaſie.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I. <hi>How to meaſure any Plain</hi> Super<g ref="char:EOLhyphen"/>fices.</head>
+               <div n="1" type="proposition">
+                  <head>PROP. I.</head>
+                  <p>HOW to find the Superficial Content of a Geometrical Square.</p>
+                  <div type="example">
+                     <pb n="2" facs="tcp:133472:10"/>
+                     <head>Example.</head>
+                     <p>Admit there is a Square repreſent<g ref="char:EOLhyphen"/>ed by the Figure A B C D, whoſe ſides are each Nine Feet, whoſe A<g ref="char:EOLhyphen"/>rea, or Superficial Content is requi<g ref="char:EOLhyphen"/>red.</p>
+                     <figure>
+                        <figDesc>square ABCD</figDesc>
+                     </figure>
+                     <p>To find which, multiply its ſide 9 by its ſelf, and the product will be 81 Feet, which is the Content of that Square.</p>
+                  </div>
+               </div>
+               <div n="2" type="proposition">
+                  <head>PROP. II. <hi>How to find the Superficial Content of a Parallelogram, or long Square.</hi>
+                  </head>
+                  <pb n="3" facs="tcp:133472:10"/>
+                  <p> Multiply the length by the breadth, and the Product will be the Content thereof.</p>
+                  <div type="example">
+                     <head>Example.</head>
+                     <p>Admit there is a long Square re<g ref="char:EOLhyphen"/>preſented by the Figure B C D E, whoſe length B C is Twenty Two Inches, and breadth B D Twelve Inches, whoſe Content is required.</p>
+                     <figure>
+                        <figDesc>long square (rectangle) BCDE</figDesc>
+                     </figure>
+                     <p>To find which, multiply the length 22, by the breadth 12, and the Product will be 264 Inches, which is the Content of the long Square required, which you may reduce into Feet, by dividing the ſame by 144, the Number of Inches contained in a ſuperficial Foot, and the Quotient will be 1 Foot, and 120 will remain with 120/144 of a Foot, which is 10 Inches.</p>
+                     <pb n="4" facs="tcp:133472:11"/>
+                     <p> But this way of Working being very tedious and troubleſome, by reaſon of the Reduction; for your Multiplier, and Multiplicand, muſt be reduced both into the Loweſt De<g ref="char:EOLhyphen"/>nomination, and afterwards reduced into Feet. I would adviſe the young Artiſt to work by Decimals; and for that end, to provide himſelf of a Two-Foot Rule, on which each Foot ſhall be divided into Ten equal parts, and each of thoſe parts into Ten other equal parts: So is the Foot divided into 100 equal parts, and thereby is fit to take the Dimen<g ref="char:EOLhyphen"/>ſions in Feet, and parts of a Foot; by which Rule, if the Dimenſions of the Square in the laſt Example, was ta<g ref="char:EOLhyphen"/>ken, the length B C would be 1. 83 Feet, and the breadth, B D, 1 Foot. Then if you multiply the length by the breadth, as before, the Product will give 1. 83, or 1 Foot 10 Inches very near. So is the Content found without any more trouble; which Method I have made uſe of in ſome of the Examples in the following Diſcourſe of Meaſuring of <hi>Superfices</hi> and <hi>Solids;</hi> but in ſuch ſort, as any
+<pb n="5" facs="tcp:133472:11"/> perſon that underſtands not Decimal Arithmetick, may eaſily apply them to Vulgar Arithmetick. But gene<g ref="char:EOLhyphen"/>rally I have given the Examples in Integers or Feet.</p>
+                     <p>If it happens, that any long Square Superfices, be broader at one end than at the other, whoſe Con<g ref="char:EOLhyphen"/>tent is required, firſt add the two ends together, and take half their Sum for the true breadth, and mul<g ref="char:EOLhyphen"/>tiply it into the length, and the Pro<g ref="char:EOLhyphen"/>ductwill be the Content thereof.</p>
+                  </div>
+                  <div type="example">
+                     <head>Example.</head>
+                     <p>Admit there is a peice of Glaſs, or any other Superfices, that is One Foot broad at one end, and Two Feet broad at the other, and Six Feet long, whoſe Content is requi<g ref="char:EOLhyphen"/>red.</p>
+                     <p>To perform which, add the two ends together, <hi>viz.</hi> One Foot and Two Feet, and their Sum will be Three Feet, the half of which is 1. 5 Foot, or One Foot Six In<g ref="char:EOLhyphen"/>ches; which multiply into the length Six Feet, and the Product will
+<pb n="6" facs="tcp:133472:12"/> give Nine Feet for the Content re<g ref="char:EOLhyphen"/>quired.</p>
+                  </div>
+               </div>
+               <div n="3" type="proposition">
+                  <head>PROP. III. <hi>How to find how much in Length of a<g ref="char:EOLhyphen"/>ny Long Square Superfices goes to make a Superficial Foot.</hi>
+                  </head>
+                  <p>Divide 1 by the given breadth, and the Quotient will give how much of the length of any Superfi<g ref="char:EOLhyphen"/>ces goes to make a Superficial Foot thereof.</p>
+                  <div type="example">
+                     <head>Example.</head>
+                     <p>Admit there is a long ſquare piece of Board, or any other Superfices, whoſe breadth is 1. 32 feet, and it be required, to know how far one ought to meaſure along the ſame to make a ſuperficial foot thereof.</p>
+                     <p>To perform which, divide 1 by the breadth, 132, and the Quotient will give 757, which is Nine Inches and ſomething more; and ſo much of the Length goes to make a ſu<g ref="char:EOLhyphen"/>perficial
+<pb n="7" facs="tcp:133472:12"/> foot, as in the following Work.</p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </div>
+               </div>
+               <div n="4" type="proposition">
+                  <head>PROP. IV. <hi>How to find the ſuperficial Content of a Right lined Triangle.</hi>
+                  </head>
+                  <p>Although Right lined Triangles are of ſeveral Kinds and Forms; as, firſt, in reſpect of their Angles, they are either Right Angled or Oblique Angled, Acute Angled or Obtuſe Angled. Second, in reſpect of their ſides; They are either an Equilate<g ref="char:EOLhyphen"/>ral, Iſoſceles, or Scalenium Trian<g ref="char:EOLhyphen"/>gle. But ſeeing they are all meaſu<g ref="char:EOLhyphen"/>red by one and the ſame Rule, I ſhall
+<pb n="8" facs="tcp:133472:13"/> add but One Example for all; and take this for a general Rule.</p>
+                  <p>Multiply half the Perpendicular into the Baſe, and the Product will be the Content of the Triangle; or Multiply half the Baſe into the whole Perpendicular, and the Pro<g ref="char:EOLhyphen"/>duct will give the ſame thing: Or if you Multiply the whole Baſe into the whole Perpendicular, half the Product is the Content of the Tri<g ref="char:EOLhyphen"/>angle.</p>
+                  <div type="example">
+                     <head>Example.</head>
+                     <p>Admit there is a Triangle A B C, whoſe Baſe A C is 72 feet, and the Perpendicular B Q is 36 feet, whoſe Content is required.</p>
+                     <figure>
+                        <figDesc>triangle ABC</figDesc>
+                     </figure>
+                     <p>To find which, multiply half the Perpendicular, which is 18 feet, in<g ref="char:EOLhyphen"/>to
+<pb n="9" facs="tcp:133472:13"/> the Baſe 72 feet, and the Product will be 1296 feet, which is the Con<g ref="char:EOLhyphen"/>tent of the ſaid Triangle.</p>
+                     <p>
+                        <hi>Or thus,</hi>
+                     </p>
+                     <p>Multiply half the Baſe, which is 36 feet, into the Perpendicular 36 feet, and the Product will give 1296 feet, as before, for the Content of the ſaid Triangle.</p>
+                  </div>
+               </div>
+               <div n="5" type="proposition">
+                  <head>PROP. V. <hi>How to find the Superficial Content of a Polygon, or many equal ſided Super<g ref="char:EOLhyphen"/>fices.</hi>
+                  </head>
+                  <p>Multiply the Length of the Per<g ref="char:EOLhyphen"/>pendicular let fall from the Center to the middle of one of the ſides, into half the Sum of the ſides, or half the Perpendicular into the Sum of the Sides, and the Product ſhall be the Content of Polygon.</p>
+                  <div type="example">
+                     <head>Example.</head>
+                     <p>Admit the Polygon given be a Hexagon, repreſented by the Figure A B C D E F (or a Six equal ſided
+<pb n="10" facs="tcp:133472:14"/> Figure), whoſe ſide is 19, and the Perpendicular, or ☉ G, is 16 feet.</p>
+                     <figure>
+                        <figDesc>hexagon ABCDEF</figDesc>
+                     </figure>
+                     <p>Multiply half the Sum of the ſides, which is 57, by the length of the Perpendicular 16, and the Pro<g ref="char:EOLhyphen"/>duct will be 912 feet, which is the Content of the Polygon required.</p>
+                     <p>
+                        <hi>Or,</hi>
+                     </p>
+                     <p>Multiply the Sum of all the ſides, which is 114, by half the Perpendi<g ref="char:EOLhyphen"/>cular 8, and the Product will give 912, as before, for the Content of the ſaid Polygon.</p>
+                     <p>The reaſon of this manner of Working is very plain, if from the Center you draw the Lines ☉ E and ☉ D, thereby making the Triangle E ☉ D, whoſe Content (by the third Propoſition) is found by Mul<g ref="char:EOLhyphen"/>tiplying the Perpendicular ☉ G 16
+<pb n="11" facs="tcp:133472:14"/> into half the ſide E D, which is 9.5, and there being in the Hexagon 6 ſuch Triangles, therefore the Per<g ref="char:EOLhyphen"/>pendicular ☉ G being Multiplied into 6 times half, the ſide D E pro<g ref="char:EOLhyphen"/>duceth 912 for the Content as be<g ref="char:EOLhyphen"/>fore.</p>
+                  </div>
+               </div>
+               <div n="6" type="proposition">
+                  <head>PROP. VI. <hi>How to find the Superficial Content of a Trapezium or Table.</hi>
+                  </head>
+                  <p>A Trapezium is a Figure conſiſt<g ref="char:EOLhyphen"/>ing of four unequal ſides, and as may unequal Angles, as is the Figure following, A B C D.</p>
+                  <figure>
+                     <figDesc>irregular quadrilateral or trapezium ABCD</figDesc>
+                  </figure>
+                  <p>To Meaſure which Trapeziums you muſt firſt reduce it into two Triangles, by drawing the Diagonal
+<pb n="21" facs="tcp:133472:15"/> Line A D, and ſo is your Figure reduced into two Triangles, <hi>viz.</hi> the Triangle A B D and A C D, then if you let fall Perpendiculars from the two Points B and C, if you find the Content the two Tri<g ref="char:EOLhyphen"/>angles, and add their Content toge<g ref="char:EOLhyphen"/>ther, the Sum will be the Area or Content of the whole Trapezium.</p>
+                  <div type="example">
+                     <head>Example.</head>
+                     <p>Having drawn the line A D, and ſo Reduced the Figure into two Triangles, and let fall the Perpen<g ref="char:EOLhyphen"/>diculars from B and C (the Baſe A D is common to both Triangles) admit the Baſe A D to be 24, and the Perpendicular at C to be 8, and the Perpendicular at B to be 10, then, if according to Propoſition the 3d, you Multiply 24, the Baſe by 4, half the Perpendicular, the Product will give 96 for the Con<g ref="char:EOLhyphen"/>tent of the Triangle A C D.</p>
+                     <p>Likewiſe, if you Multiply 24, the Baſe by 5, half the other Perpen<g ref="char:EOLhyphen"/>dicular, the Product will give 120
+<pb n="13" facs="tcp:133472:15"/> for the Content of the Triangle A B D.</p>
+                     <p>Then if you add the Content of theſe two Triangles together, <hi>viz.</hi> 96 and 120, their Sum is 216, which is the Content of the whole Trape<g ref="char:EOLhyphen"/>zium A B C D.</p>
+                     <p>
+                        <hi>Or thus,</hi>
+                     </p>
+                     <p>Add the two Perpendiculars, <hi>viz.</hi> 10 and 8 together, and Multiply half the Sum, which is 9, into the common Baſe A D 24, and the Pro<g ref="char:EOLhyphen"/>duct will give 216, for the Content of the Trapezium A B C D, as be<g ref="char:EOLhyphen"/>fore.</p>
+                     <p>
+                        <hi>Or thus,</hi>
+                     </p>
+                     <p>Multiply half the common Baſe A D, which is 12, into the Sum of the two Perpendiculars, which is 18, and the Product will give the ſame as before, <hi>viz.</hi> 216, for the Content of the Trapezium.</p>
+                  </div>
+               </div>
+               <div n="7" type="proposition">
+                  <head>PROP. VII. <hi>How to Reduce Irregular Figures in<g ref="char:EOLhyphen"/>to Trapeziums and Triangles, and to find the Content thereof.</hi>
+                  </head>
+                  <div type="example">
+                     <pb n="14" facs="tcp:133472:16"/>
+                     <head>Example.</head>
+                     <p>Let the Figure given to be Mea<g ref="char:EOLhyphen"/>ſured be A B C D E F G H.</p>
+                     <figure>
+                        <figDesc>irregular polygon ABCDEFGH</figDesc>
+                     </figure>
+                     <p>To perform which, Divide the Figure into Trapeziums and Tri<g ref="char:EOLhyphen"/>angles, according to your Fancy, and as the nature of the Plain will bear, then find the Content of the Trape<g ref="char:EOLhyphen"/>ziums and Triangle, as is taught in the third and fifth Propoſitions, and add the ſeveral Contents toge<g ref="char:EOLhyphen"/>ther, ſo will the Sum be the Con<g ref="char:EOLhyphen"/>tent of the Irregular Figure deſired. As in this Example, draw the lines B G and D F, ſo is the whole Figure divided into two Trapeziums and one Triangle, <hi>viz.</hi> the Trapeziums A B G H, and C D F G, and the Triangle D E F, the Content of
+<pb n="15" facs="tcp:133472:16"/> which being ſeverally found by the third and fifth Propoſitions, and added together, their Sum will be the Content of the whole Figure.</p>
+                  </div>
+               </div>
+               <div n="8" type="proposition">
+                  <head>PROP. VIII. <hi>By the Diamiter of a Circle to find the Circumference.</hi>
+                  </head>
+                  <p>To find which, the Analogy, or Proportion, is as followeth.</p>
+                  <p>As 7 is to 22,<lb/> So is the Diamiter of the Circle,<lb/> To the Circumference.</p>
+                  <div type="example">
+                     <head>Example.</head>
+                     <p>Admit there is a Circle repreſent<g ref="char:EOLhyphen"/>ed by the Figure A B C D, whoſe Diamiter A C is 28, whoſe Circum<g ref="char:EOLhyphen"/>ference is required.</p>
+                     <figure>
+                        <figDesc>circle ABCD with diameter AC</figDesc>
+                     </figure>
+                     <pb n="16" facs="tcp:133472:17"/>
+                     <p> To find which, work by the fore<g ref="char:EOLhyphen"/>going Proportion, ſo will you find the Circumference to be 88, as in the following work.</p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </div>
+               </div>
+               <div n="9" type="proposition">
+                  <head>PROP. IX. <hi>How by the Circumference of a Circle given to find the Diamiter.</hi>
+                  </head>
+                  <p>To find which, the Analogy, or Proportion, is as followeth.</p>
+                  <p>As 22 is to 7<lb/> So is the Circumference of any Circle<lb/> To the Diamiter.</p>
+                  <div type="example">
+                     <pb n="17" facs="tcp:133472:17"/>
+                     <head>Example.</head>
+                     <p>Admit the Circumference, the foregoing Circle A B C D be given, which was found to be 88, whoſe Diametre is required.</p>
+                     <p>Work by the fore-going Propor<g ref="char:EOLhyphen"/>tion, and ſo will you find the Dia<g ref="char:EOLhyphen"/>metre of the ſaid Circle to be 28, as in the following Work.</p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </div>
+               </div>
+               <div n="10" type="proposition">
+                  <head>PROP. X. <hi>How to find the Content of a Circle having the Diamiter and Circumference given.</hi>
+                  </head>
+                  <p>To find which, Multiply half the Circumference by half the Dia<g ref="char:EOLhyphen"/>miter,
+<pb n="18" facs="tcp:133472:18"/> and the Product is the Super<g ref="char:EOLhyphen"/>fitial Content of the Circle.</p>
+                  <div type="example">
+                     <head>Example.</head>
+                     <p>Admit there is a Circle repreſent<g ref="char:EOLhyphen"/>ed by the foregoing Figure, whoſe Circumference A B C D is 88, and the Diamiter A C 28, whoſe Super<g ref="char:EOLhyphen"/>ficial Content is required.</p>
+                     <p>To find which, Multiply half the Circumference, which is 44, by half the Diamiter, which is 14, and the Product will give 616 which is the Content of the ſaid Circle required.</p>
+                  </div>
+               </div>
+               <div n="11" type="proposition">
+                  <head>PROP. XI. <hi>How to find the Superficial Content of a Circle, having only the Diamiter given.</hi>
+                  </head>
+                  <p>To perform which, firſt ſquare the Semy-Diamiter, and then work by the following Proportion.</p>
+                  <p>As 7 is to 22,<lb/> So is the Square of the Semy-Di<g ref="char:EOLhyphen"/>amiter<lb/> To the content of the circle.</p>
+                  <div type="example">
+                     <pb n="19" facs="tcp:133472:18"/>
+                     <head>Example.</head>
+                     <p>Admit there is a circle whoſe Di<g ref="char:EOLhyphen"/>amiter is 28, and it be required to find the content of the ſaid circle.</p>
+                     <p>To perform which, firſt halve the Diamiter, the half of which is 14, which 14 Multiply into its ſelf, and the Product will give 196, which is the Square of the Semy-Diamiter, then work by the foregoing Propor<g ref="char:EOLhyphen"/>tion, and ſo will you find the ſuper<g ref="char:EOLhyphen"/>fitial content of the ſaid circle to be 616, as in the following work.</p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </div>
+               </div>
+               <div n="12" type="proposition">
+                  <pb n="20" facs="tcp:133472:19"/>
+                  <head>PROP. XII. <hi>How to find the Superficial Content of a Circle, having the Circumference only given.</hi>
+                  </head>
+                  <p>To find which, firſt Square the Circumference, then work by the following Proportion.</p>
+                  <p>As four times 22, which is 88, is to 7,<lb/> So is the Square of the circum<g ref="char:EOLhyphen"/>ference<lb/> To the content of the circle.</p>
+                  <div type="example">
+                     <head>Example.</head>
+                     <p>Admit there is a circle whoſe cir<g ref="char:EOLhyphen"/>cumference is 88, and it be re<g ref="char:EOLhyphen"/>quired to find the content of the ſaid circle.</p>
+                     <p>To find which, firſt ſquare the circumference 88, whoſe ſquare you will find to be 7744, then work by the foregoing proportion, ſo will you find 616 to be the content of the ſaid circle, as in the following work.</p>
+                     <pb n="21" facs="tcp:133472:19"/>
+                     <p>
+                        <gap reason="math">
+                           <desc>〈 math 〉</desc>
+                        </gap>
+                     </p>
+                  </div>
+               </div>
+               <div n="13" type="proposition">
+                  <head>PROP. XIII. <hi>How by the Content of a Circle given to find the ſide of a Square, the ſuperfi<g ref="char:EOLhyphen"/>cial Content of which Square ſhall be equal to the ſuperficial Content of the Circle.</hi>
+                  </head>
+                  <p>To perform which, extract the ſquare Root of the Content of the Circle, which Root is the ſide of the Square deſired.</p>
+                  <div type="example">
+                     <pb n="22" facs="tcp:133472:20"/>
+                     <head>Example.</head>
+                     <p>Admit the Content of the given Circle be 144, and it be required to find the ſide of a Square, the ſuper<g ref="char:EOLhyphen"/>ficial content of which Square ſhall be equal to the ſuperficial content of the Circle.</p>
+                     <p>To find which, extract the ſquare Root of the content of the Circle, 144, whoſe Root you will find to be 12, which is the ſide of the Square de<g ref="char:EOLhyphen"/>ſired.</p>
+                  </div>
+               </div>
+               <div n="14" type="proposition">
+                  <head>PROP. XIV. <hi>How by the Circumference of Circle given, to find the ſide of an Inſcribed Square.</hi>
+                  </head>
+                  <p>To find which, work by the fol<g ref="char:EOLhyphen"/>lowing Proportion:</p>
+                  <p>As 1.000 is to 0.225,<lb/> So is the circumference of any circle<lb/> To the ſide of the inſcribed Square.</p>
+               </div>
+               <div n="15" type="proposition">
+                  <pb n="23" facs="tcp:133472:20"/>
+                  <head>PROP. XV. <hi>By the Diamiter of a Circle given, to find the ſide of an inſcribed Square.</hi>
+                  </head>
+                  <p>To find out which, work by the following proportion.<lb/> As 1.0000 is to 0.7071,<lb/> So is the Diamiter of any Circle<lb/> To the ſide of the Inſcribed Square.</p>
+               </div>
+               <div n="16" type="proposition">
+                  <head>PROP. XVI. <hi>How to find the Superficial Content of an Oval.</hi>
+                  </head>
+                  <p>Multiply the length by the breadth, and that Product Multi<g ref="char:EOLhyphen"/>ply by Eleven, and that Product Divide by Fourteen and the Quo<g ref="char:EOLhyphen"/>tient ſhall give the Content of the Oval required.</p>
+                  <div type="example">
+                     <head>Example.</head>
+                     <p>Admit there is an Oval repre<g ref="char:EOLhyphen"/>ſented by the following Figure,
+<pb n="24" facs="tcp:133472:21"/> whoſe length A C is 50, and breadth B D 40, whoſe ſuperficial content is required.</p>
+                     <figure>
+                        <figDesc>oval ABCD</figDesc>
+                     </figure>
+                     <p>To find which, Multiply the length 50 by the breadth 40, and the Product will be 2000, which Multiply by 11, and the Product will be 22000, which Divide by 14, and the Quotient will be 1571, which is the content of the Oval re<g ref="char:EOLhyphen"/>quired.</p>
+                  </div>
+               </div>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="25" facs="tcp:133472:21"/>
+               <head>CHAP. II. <hi>How to Meaſure all ſorts of Regu<g ref="char:EOLhyphen"/>lar Solids.</hi>
+               </head>
+               <p>HAving in the laſt Chapter ſhew<g ref="char:EOLhyphen"/>ed you how to Meaſure any Plain Superfices, which if well un<g ref="char:EOLhyphen"/>derſtood, the content of all Solid Bodies, whoſe ends are of the ſame Dimenſions, will be found by the following Rule.</p>
+               <p>Firſt find the ſuperficial content at the end by ſome of the Propoſiti<g ref="char:EOLhyphen"/>ons foregoing, and Multiply the ſame by the length, and the Pro<g ref="char:EOLhyphen"/>duct will give the ſolid content.</p>
+               <div n="1" type="proposition">
+                  <head>PROP. I. <hi>How to find the ſolid Content of a Cube.</hi>
+                  </head>
+                  <p>Multiply its ſide into its ſelf, and that Product Multiply by the ſide
+<pb n="26" facs="tcp:133472:22"/> again, and that Product will be the ſolid content of the cube deſired.</p>
+                  <div type="example">
+                     <head>Example.</head>
+                     <p>Admit there is a Cube whoſe ſide is 6 Feet, repreſented by the Figure A B C D E F G, whoſe ſolid con<g ref="char:EOLhyphen"/>tent is required.</p>
+                     <figure>
+                        <figDesc>cube ABCDEFG</figDesc>
+                     </figure>
+                     <p>To find which, Multiply the ſide 6 by its ſelf, and the Product will be 36, which again Multiply by 6 and the Product will be 216 Feet which is the ſolid content of the ſaid Cube.</p>
+                  </div>
+               </div>
+               <div n="2" type="proposition">
+                  <pb n="27" facs="tcp:133472:22"/>
+                  <head>PROP. II. <hi>How to find the Solid Content of a Pa<g ref="char:EOLhyphen"/>rallelepipedon, or long Square.</hi>
+                  </head>
+                  <p>Firſt find the ſuperficial content at the end by Propoſitions, the firſt or ſecond of the laſt Chapter, which Multiply into the length, and the Product will be the ſolid content.</p>
+                  <div type="example">
+                     <head>Example.</head>
+                     <p>Admit there is a Parallelepipe<g ref="char:EOLhyphen"/>don, repreſented by the Figure H I K L M N O, whoſe Square at the end is 3 feet long, and 2 feet broad, and its length, K M, is 39 feet, whoſe ſolid content is required.</p>
+                     <pb n="28" facs="tcp:133472:23"/>
+                     <figure>
+                        <figDesc>parallelepiped HIKLMNO</figDesc>
+                     </figure>
+                     <p>To find which, Multiply the length at the top H I 3, by the breadth H K 2, and the Product will give 6, which is the ſuperfici<g ref="char:EOLhyphen"/>al content at the top, which Multi<g ref="char:EOLhyphen"/>ply into the length K M 39 feet, and the Product will be 234 feet, which is the ſolid content of the ſaid Paral<g ref="char:EOLhyphen"/>lelepipedon.</p>
+                  </div>
+               </div>
+               <div n="3" type="proposition">
+                  <head>PROP. III. <hi>How to find the ſolid Content of a Cy<g ref="char:EOLhyphen"/>linder.</hi>
+                  </head>
+                  <pb n="29" facs="tcp:133472:23"/>
+                  <p> Firſt find the ſuperficial content of the circle at the top or baſe (by Propoſition the 10, 11 or 12 of the laſt Chapter) then Multiply it by the length, and the Product will be the ſolid content thereof.</p>
+                  <div type="example">
+                     <head>Example.</head>
+                     <p>Admit there is a Cylinder repre<g ref="char:EOLhyphen"/>ſented by the Figure G, whoſe cir<g ref="char:EOLhyphen"/>cumference of the circle at the end or baſe is 44 Inches, and the length of the Cylinder 16 Inches, whoſe ſolid content is required.</p>
+                     <figure>
+                        <figDesc>cylinder, Figure G</figDesc>
+                     </figure>
+                     <pb n="30" facs="tcp:133472:24"/>
+                     <p> To find which, firſt find the ſu<g ref="char:EOLhyphen"/>perficial Content of the Circle at the Top or Baſe, by <hi>Propoſition</hi> the <hi>11th</hi> of the laſt Chapter, which you will find to be 154 Inches; which multi<g ref="char:EOLhyphen"/>ply by the length 16 Inches, and the Product will be 2464 Inches, which is the Content of the Cylinder re<g ref="char:EOLhyphen"/>quired; which you may reduce into feet, by dividing the ſame by 1728, the number of Inches contained in a ſolid Foot, and the Quotient will give 1 Foot, and there will remain 636, which is 736/1728 of a Foot. But, as I ſaid before, the beſt way is to work by Decimals; but I have add<g ref="char:EOLhyphen"/>ed this Example for their ſakes that underſtand not Decimals: But this, as well as any other Queſtion, may be better reſolved by Croſs Multipli<g ref="char:EOLhyphen"/>cation than by this Common Me<g ref="char:EOLhyphen"/>thod; to perform which, if the Learner underſtands it not already, I refer him to the laſt Chapter of this Book; and you will find the Anſwer to be 1 Foot 4 Inches, and 10 Seconds, as in the following Work:</p>
+                     <pb n="31" facs="tcp:133472:24"/>
+                     <p>
+                        <gap reason="math">
+                           <desc>〈 math 〉</desc>
+                        </gap>
+                     </p>
+                     <p>But here I preſume it may not be improper to ſhew the great Error that common Meaſurers are guilty of in the meaſuring of Round Timber, whoſe Method is thus: they girt the Tree, or peice of Timber about, and take the one fourth part of the Circumference for the true Square, which is very erroneous, as may appear by the laſt Example, where the Circumference, or Girt of the Cylinder was 44, and the Content of the Circle 154. Where<g ref="char:EOLhyphen"/>as, if you had taken the one fourth of the Circumference 44, which is
+<pb n="32" facs="tcp:133472:25"/> 11, for the Square Root of the Cir<g ref="char:EOLhyphen"/>cle, which multiplied into its ſelf, the Product is but 121; whereas the Content of the Circle is found to be 154, from which ſubſtract 121, and the Remainder will be 33. So much doth the <hi>common-way</hi> want of the true Content of the Circle; from whence it is evident, that according to the common way of meaſuring, there is loſt ſomething above the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>/5 part of any Round Timber ſo meaſured.</p>
+                     <p>But all that can be ſaid in Defence of this Cuſtom, is, That all Trees growing round, muſt be hewed ſquare, before it can be fit for any uſe; ſo this Advantage in meaſu<g ref="char:EOLhyphen"/>ring may be very well allowed for what goes to waſte in chips, they be<g ref="char:EOLhyphen"/>ing good for nothing but the fire; and although Meaſurers think not of this Excuſe, but take their Rule for an abſolute Truth, I preſume was the firſt Occaſion of the Rule, though it is a very Unreaſonable Allowance, as may thus appear; the inſcribed Square of the circle of the Cylinder, in the laſt Example, will
+<pb n="33" facs="tcp:133472:25"/> be 10 Inches, as you may prove by the following Proportion.</p>
+                     <p>As 1.000 is to 0.225, ſo is the cir<g ref="char:EOLhyphen"/>cumference 44 to the inſcribed Square 9.900, which wants but ve<g ref="char:EOLhyphen"/>ry little of 10 inches; and this is the greateſt Square ſuch a Round piece of Timber can be hew'n into, and this multiplied into its ſelf, gives 98 inches and .010 parts for its content. Now if you add the content of the inſcribed Square 98, and the true content of the circle 154, together, their Sum will be 252, and the Mid<g ref="char:EOLhyphen"/>dle, or Mean thereof (which is half their Sum) is 126, and the content, after the common way, was but 121. So that you may ſee this Rule gives an indifferent Allowance both to the Buyer and Seller. But I preſume, notwithſtanding all that hath been ſaid, that the true content ought to be given, and the Meaſure exactly known. And as to the Waſte there<g ref="char:EOLhyphen"/>of, Goodneſs or Badneſs of the Tim<g ref="char:EOLhyphen"/>ber, there ought to be an allowance made in the Price.</p>
+                  </div>
+               </div>
+               <div n="4" type="proposition">
+                  <pb n="34" facs="tcp:133472:26"/>
+                  <head>PROP. IV. <hi>How to know how much in length of any Solid Body, having equal Baſes, goes to make a Solid Foot thereof.</hi>
+                  </head>
+                  <p>Firſt find the ſuperficial content at the End or Baſe, by which divide 1 (to wit, 1 ſolid foot), and the Quoti<g ref="char:EOLhyphen"/>ent will be the Length that goes to make a foot ſolid thereof.</p>
+                  <div type="example">
+                     <head>Example.</head>
+                     <p>Admit there is a piece of Tim<g ref="char:EOLhyphen"/>ber, or any other ſolid body, that is terminated at each end by two e<g ref="char:EOLhyphen"/>qual Geometrical Squares, whoſe ſide is 1. 55, and it be required to know how much of the Length thereof goes to make a foot ſolid.</p>
+                     <p>To perform which, firſt find the ſuperficial content at the End or Baſe, by <hi>Propoſition</hi> the <hi>1ſt,</hi> of the laſt <hi>Chapter,</hi> which you will find to be 2. 4025, by which divide 1, and the Quotient will give .416 foot, or 5 inches, as in the following Work.</p>
+                     <pb n="35" facs="tcp:133472:26"/>
+                     <p>
+                        <gap reason="math">
+                           <desc>〈 math 〉</desc>
+                        </gap>
+                     </p>
+                  </div>
+               </div>
+               <div n="5" type="proposition">
+                  <head>PROP. V. <hi>How to find the ſolid Content of a Cone.</hi>
+                  </head>
+                  <p>Firſt find the ſuperficial content of the circle at the Baſe by <hi>(Propoſiti<g ref="char:EOLhyphen"/>on</hi> the <hi>10th, 11th</hi> or <hi>12th</hi> of the laſt <hi>Chapter,</hi> which multiply by ½ of the heighth, and the Product will be the ſolid content of the <hi>Cone.</hi>
+                  </p>
+                  <div type="example">
+                     <pb n="36" facs="tcp:133472:27"/>
+                     <head>Example.</head>
+                     <p>Admit there is a Cone repreſent<g ref="char:EOLhyphen"/>ed by the Figure B, whoſe Diame<g ref="char:EOLhyphen"/>tre at the Baſe is 5 feet, and its Heighth, or Altitude, is 18 feet, whoſe ſolid Content is required.</p>
+                     <figure>
+                        <figDesc>cone, Figure B</figDesc>
+                     </figure>
+                     <p>To find which, firſt find the ſu<g ref="char:EOLhyphen"/>perficial content of the Baſe (by <hi>Propoſition</hi> the <hi>11th</hi> of the laſt <hi>Chap<g ref="char:EOLhyphen"/>ter),</hi> which you will find to be 19. 64, which multiply by ⅓ of the heighth, which is 6, and the Product will give 117. 84 feet, which is the ſolid con<g ref="char:EOLhyphen"/>tent of the Cube required.</p>
+                  </div>
+               </div>
+               <div n="6" type="proposition">
+                  <pb n="37" facs="tcp:133472:27"/>
+                  <head>PROP. VI. <hi>How to find the Solid Content of a Pyramid.</hi>
+                  </head>
+                  <p>A Pyramid is a Silid comprehen<g ref="char:EOLhyphen"/>ded under plain Surfaces, and forms a Triangular, Quadrangular, or a<g ref="char:EOLhyphen"/>ny Mutangular Baſe, diminiſhing equally leſs and leſs, till it diminiſhes in a Point at the Top as a Cone.</p>
+                  <p>To find the ſolid content of any ſuch Figure, firſt find the ſuperficial content of the Baſe, by ſome of the Propoſitions of the laſt Chapter; which multiply into ⅓ of its Alti<g ref="char:EOLhyphen"/>tude, or Heighth, and the Product will be the ſolid content thereof.</p>
+                  <div type="example">
+                     <head>Example.</head>
+                     <p>Admit there is a Pyramid repre<g ref="char:EOLhyphen"/>ſented by the Figure M, whoſe Baſe is a Hexagon, the ſide of which is 25 feet, and its Perpendicular heighth is 60 feet, whoſe ſolid con<g ref="char:EOLhyphen"/>tent is required.</p>
+                     <pb n="38" facs="tcp:133472:28"/>
+                     <figure>
+                        <figDesc>pyramid, Figure M</figDesc>
+                     </figure>
+                     <p>To perform which, firſt find the ſuperficial content of the Baſe, by <hi>Propoſition</hi> 5. of the laſt <hi>Chapter; viz.</hi> by multiplying half the Sum of the ſides, which is 75 feet, by the Per<g ref="char:EOLhyphen"/>pendicular (let fall from the Center to the midſt of one of the ſides), which will be 13 feet, and the Pro<g ref="char:EOLhyphen"/>duct will give 975 feet for the ſuper<g ref="char:EOLhyphen"/>ficial content of the Baſe; which multiply by ⅓ of the heighth 20, and the Product 19500 feet for the ſolid content of the Pyramid required.</p>
+                  </div>
+               </div>
+               <div n="7" type="proposition">
+                  <pb n="39" facs="tcp:133472:28"/>
+                  <head>PROP. VII. <hi>How to find the Solid Content of the Segment of a Cone or Pyramid.</hi>
+                  </head>
+                  <p>Here note, that all tapering Tim<g ref="char:EOLhyphen"/>ber, or Stone, <hi>&amp;c.</hi> whoſe Baſes are Regular Figures, are Segments of either a <hi>Cone</hi> or <hi>Pyramid.</hi>
+                  </p>
+                  <p>To find the ſolid content of any ſuch Segment, firſt find the ſuperfi<g ref="char:EOLhyphen"/>cial content of both the Baſes, by ſome of the Propoſitions of the laſt <hi>Chapter,</hi> then multiply the ſuperficial content of the greater Baſe by the ſuperficial content of the leſſer, and extract the ſquare Root of that Pro<g ref="char:EOLhyphen"/>duct; then add that ſquare Root, and the ſuperficial content of the Two Baſes together, and their Sum multiply by ⅓ part of the Length, and that Product will give the ſolid content of the Segment required.</p>
+                  <div type="example">
+                     <head>Example.</head>
+                     <p>Admit there is a Segment of a Py<g ref="char:EOLhyphen"/>ramid, whoſe Baſes are Squares, re<g ref="char:EOLhyphen"/>preſented
+<pb n="40" facs="tcp:133472:29"/> by the Figure P G, and the ſide of the great Square at G is 1.5 foot, or 1 foot 6 Inches, and the ſide of the leſſer at P is .5 foot, or 6 Inches, and the Length of the ſaid Segment is 30 feet, whoſe ſolid con<g ref="char:EOLhyphen"/>tent is required.</p>
+                     <figure>
+                        <figDesc>segment of a pyramid, Figure PG</figDesc>
+                     </figure>
+                     <p>To find which, firſt find the ſu<g ref="char:EOLhyphen"/>perficial content of both the Ends by <hi>Propoſition</hi> the firſt of the laſt <hi>Chapter,</hi> the greater of which you will find to be 2.25 feet, and the leſſer 0.25 foot,
+<pb n="41" facs="tcp:133472:29"/> then multiply the ſuperficial content at the greater end at G 2.25, by the ſuperficial content of the leſſer at P .25, and the Product will be .5625 feet; then extract the ſquare Root of that Product, which you will find to be .75 feet, to which add the ſu<g ref="char:EOLhyphen"/>perficial content of the Two Ends, and their Sum will be 3.25, which multiply by ⅓ part of the Length, which is 10 feet, and the Product will<g ref="char:punc">▪</g> be 32.50 feet, which is the ſo<g ref="char:EOLhyphen"/>lid content of the ſaid Segment re<g ref="char:EOLhyphen"/>quired, as in the following work,</p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                     <pb n="42" facs="tcp:133472:30"/>
+                     <p> If you work the ſame by Vulgar Arithmetick, you will find the con<g ref="char:EOLhyphen"/>tent to be 32 feet 6 Inches.</p>
+                  </div>
+               </div>
+               <div n="8" type="proposition">
+                  <head>PROP. VIII. <hi>How to find the Solid Content of a Globe, or Sphere, the Diametre being given.</hi>
+                  </head>
+                  <p>To find which work by the fol<g ref="char:EOLhyphen"/>lowing Proportion,</p>
+                  <p>As 6 times 7, which is 42,<lb/> Is to 22,<lb/> So is the <hi>Cube</hi> of the Diametre of any Globe<lb/> To the ſolid content thereof.</p>
+                  <div type="example">
+                     <head>Example.</head>
+                     <p>Admit there is a Globe or Sphere repreſented by the Figure following, whoſe Diametre is 24 Inches, and be required to find the ſolid content thereof.</p>
+                     <pb n="43" facs="tcp:133472:30"/>
+                     <figure>
+                        <figDesc>globe or sphere with diameter 24 inches</figDesc>
+                     </figure>
+                     <p>To perform which, firſt cube the Diametre, 24 Inches, whoſe <hi>Cube</hi> you will find to be 1.3824 Inches; then work by the before-going Pro<g ref="char:EOLhyphen"/>portion, and ſay, As 42 is to 22, ſo is 13824 to the ſolid content of the ſaid Globe, which you will find to be 7241 6/42 Inches.</p>
+                  </div>
+               </div>
+               <div n="9" type="proposition">
+                  <head>PROP. IX. <hi>How to find the Solid Content of a Globe, or Sphere, the Circumference be<g ref="char:EOLhyphen"/>ing given.</hi>
+                  </head>
+                  <p>To find which, work by the fol<g ref="char:EOLhyphen"/>lowing Proportion,</p>
+                  <p>As 1.0000<lb/> Is to 0.16887,<lb/>
+                     <pb n="44" facs="tcp:133472:31"/> So is the Cube of the Circumfe<g ref="char:EOLhyphen"/>rence of any Globe<lb/> To the ſolid content thereof.</p>
+               </div>
+               <div n="10" type="proposition">
+                  <head>PROP. X. <hi>How to meaſure any Body that is hol<g ref="char:EOLhyphen"/>low.</hi>
+                  </head>
+                  <p>Admit it were required to find the ſolid content of a hollow Tree, or of any other hollow Body whatſoever; To perform which, firſt you muſt find the ſolid content thereof, as though it were not hollow; then find the ſolid content of the Conca<g ref="char:EOLhyphen"/>vity, as though it were Maſſy, and ſubtract it from the whole content, and the Remainder will be the ſolid content of the hollow body.</p>
+               </div>
+               <div n="11" type="proposition">
+                  <head>PROP. XI. <hi>How to find the Solid Content of any Solid Body, of what Form ſoever, ſuch as Geometry can give no Rule for the mea<g ref="char:EOLhyphen"/>ſuring thereof.</hi>
+                  </head>
+                  <pb n="45" facs="tcp:133472:31"/>
+                  <p> To perform which, take ſome convenient Veſſel, and fill the ſame to a convenient heighth with clean water, and make a Mark juſt how high the water reacheth; then put the Body (whoſe ſolid content is re<g ref="char:EOLhyphen"/>quired) into the water, which will cauſe the water to riſe above the Mark; then take ſo much of the water out of the Veſſel, as is raiſed above the Mark, and put the ſame into an hollow Cube, which have in readineſs for that purpoſe; then find the ſolid content of the ſaid Cube, ſo high as the water reacheth, which ſhall be the ſolid content of the ſaid body required.</p>
+               </div>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="46" facs="tcp:133472:32"/>
+               <head>CHAP. III. <hi>Of GA<g ref="char:V">Ʋ</g>GING.</hi>
+               </head>
+               <p>GAuging of Veſſels is no other than finding the ſolid content of the concavities in Inches, as taught in the laſt Chapter, and Di<g ref="char:EOLhyphen"/>viding the ſame by the number of cubick Inches, contained in a Gallon of the Liquor contained in the ſame, which according to the Eſtabliſh<g ref="char:EOLhyphen"/>ment of the Exciſe for Ale, is 282, and for Wine, 231 Inches.</p>
+               <div n="1" type="proposition">
+                  <head>PROP. I. <hi>How to Gauge a Cubical Veſſel.</hi>
+                  </head>
+                  <p>Admit there is a cube-Veſſel re<g ref="char:EOLhyphen"/>preſented by the Figure D, whoſe ſide is 16 Inches, and it be deſired to know how many Gallons of Wine or Ale the ſame will hold.</p>
+                  <pb n="47" facs="tcp:133472:32"/>
+                  <figure>
+                     <figDesc>cube, Figure D</figDesc>
+                  </figure>
+                  <p>To find which, firſt find the ſolid content of the ſaid cube in Inches, as taught in Propoſition the firſt of the laſt Chapter, which you will find to be 4096 Inches, which reduce in<g ref="char:EOLhyphen"/>to Gallons, by dividing the ſame by 282 for Ale or Beer, and the Quo<g ref="char:EOLhyphen"/>tient will be 14.5 which are the number of Gallons of Ale or Beer the ſaid Cube will hold, and for Wine, Divide the ſolid content of the ſaid cube by 231, and the Quo<g ref="char:EOLhyphen"/>tient will give 17.73 for the number of Gallons of Wine the ſaid cube will hold, as in the following Work.</p>
+                  <pb n="48" facs="tcp:133472:33"/>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+                  <p>To perform the ſame by the Line of Numbers.</p>
+                  <div n="1" type="method">
+                     <pb n="49" facs="tcp:133472:33"/>
+                     <head>I. <hi>For</hi> Ale <hi>or</hi> Beer.</head>
+                     <p>Extend your Compaſſes always from the Gauging Point, which for Ale is 16, into the ſide of the cube, which in this Example is 16, and the ſame extent will reach from the ſaid 16.8, being turned twice over unto 14.5 Gallons of Ale or Beer.</p>
+                  </div>
+                  <div n="2" type="method">
+                     <head>II. <hi>For</hi> Wine.</head>
+                     <p>Extend your Compaſſes from the Gauging Point for Wine, which is always 15 2/10, into the ſide of the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ube 16, and the ſame extent being <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>urned twice over, will reach from <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>he ſaid 16, unto 17.73 Gallons of Wine.</p>
+                  </div>
+               </div>
+               <div n="2" type="proposition">
+                  <head>PROP. II. <hi>How to find the Contents of a Square Veſſel in Gallons of Ale or Wine.</hi>
+                  </head>
+                  <p>Admit there is a Square Veſſel <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>epreſented by the figure A B C D E,
+<pb n="50" facs="tcp:133472:34"/> whoſe Length A B, is 86 Inches, and Breadth A C, 41 Inches, and 'its Depth C D, 9 Inches; and it be Required to know how many Gal<g ref="char:EOLhyphen"/>lons of Ale, Beer or Wine, the ſaid Veſſel will hold.</p>
+                  <figure>
+                     <figDesc>square vessel ABCDE: length AB, breadth AC, depth CD</figDesc>
+                  </figure>
+                  <p>To find which firſt find the Solid Content of the ſaid Veſſel, as be<g ref="char:EOLhyphen"/>fore Taught in the Meaſuring of Solids; which you will find to be 31734 Inches, which Reduce into Gallons, by Dividing the ſame by 282 for Beer or Ale, and 231 for Wine, as in the laſt Propoſition, ſo will you find the ſaid Veſſel will hold 112.53 Gallons of Beer or Ale, or 137.37 Gallons of Wine. As in the following Work.</p>
+                  <pb n="51" facs="tcp:133472:34"/>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+                  <div type="method">
+                     <pb n="52" facs="tcp:133472:35"/>
+                     <head>How to perform the ſame by the Line of Numbers.</head>
+                     <p>To perform which you muſt firſt find a mean Number, between the Length A B, 86 Inches, and the Breadth A C, 41 Inches, by Mul<g ref="char:EOLhyphen"/>tiplying the Length 86, by the Breadth A C 41; and the Product will be 3526, and then Extracting the Square Root of the ſaid Product, which Root is the Number requi<g ref="char:EOLhyphen"/>red, which you will find to be 59.38 Inches</p>
+                     <p>
+                        <hi>Or Thus, by the Line of Numbers.</hi>
+                     </p>
+                     <p>Take the Middle way between 86, and 41, and you will find it the ſame as before, <hi>viz.</hi> 59.38 inches.</p>
+                  </div>
+                  <div type="method">
+                     <head>Then for Ale.</head>
+                     <p>Extend your Compaſſes from the Gauging point 16.8, to the mean Number 59.38 Inches, and the ſame Extent will reach from the Depth 9 Inches, turned twice over unto 112.53 Gallons, of Ale or Beer, as before.</p>
+                  </div>
+                  <div type="method">
+                     <pb n="53" facs="tcp:133472:35"/>
+                     <head>For Wine,</head>
+                     <p>Extend your Compaſſes from the Gauging point for Wine 51.2, to the mean Number before found 59.38 Inches and the ſame Extent will reach from the Depth 9 Inches, turn<g ref="char:EOLhyphen"/>ed twice over, to 137.37 Gallons of Wine, as before.</p>
+                  </div>
+               </div>
+               <div n="3" type="proposition">
+                  <head>PROP. III. <hi>How to find the Contents of a Cylin<g ref="char:EOLhyphen"/>der Veſſel in Gallons of Ale, Beer or Wine.</hi>
+                  </head>
+                  <p>Admit there is a Cylinder Veſſel repreſented by the figure A B C G, whoſe Diamitre A B is 14 Inches, and the Length thereof G C 16 Inches, and it be required to know how many Gallons of Ale, Beer of Wine this ſaid Veſſel will hold.</p>
+                  <pb n="54" facs="tcp:133472:36"/>
+                  <figure>
+                     <figDesc>cylindrical vessel ABCG: diameter AB, height GC</figDesc>
+                  </figure>
+                  <p>To find which firſt find the Solid Contents of the ſaid Cylinder as taught in Propoſition the Third of the laſt Chapter, which you will find to be 24.64 Inches, which Re<g ref="char:EOLhyphen"/>duce into Gallons, by Dividing the ſame by 282, for Beer and Ale, and 231 for Wine; and you will find the ſaid Veſſel to hold 8.73 Gallons, of Beer or Ale, and 10.66 Gal<g ref="char:EOLhyphen"/>lons of Wine, as in the following Work.</p>
+                  <pb n="55" facs="tcp:133472:36"/>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+                  <pb n="56" facs="tcp:133472:37"/>
+                  <p>Or thus,</p>
+                  <p>Square the Diametre A B, 14 whoſe Square is 196, which Multiply by the Length G C 16, and the Product will be 2136 which Divide by 359, for Beer or Ale, and by 294 for Wine, ſo will you find as before; the ſaid Veſ<g ref="char:EOLhyphen"/>ſel will hold 8.73 Gallons of Beer or Ale, or 10 66 Gallons of Wine.</p>
+                  <div type="methods">
+                     <head>How to performe the ſame by the Line of Numbers.</head>
+                     <div n="1" type="method">
+                        <head>I. <hi>For Ale or Beer.</hi>
+                        </head>
+                        <p>Extend your Compaſſes from the Gauging point for Ale or Beer 18.95, unto the Diametre 14, and the ſame Extent will reach from the Length 16, being twice turned over to 8.73 Gallons of Beer or Ale.</p>
+                     </div>
+                     <div n="2" type="method">
+                        <head>II. <hi>For Wine.</hi>
+                        </head>
+                        <p>Extend your Compſſes from the Gauging point for Wine 17.15 un<g ref="char:EOLhyphen"/>to the Diametre 14, and the ſame Extent will reach, being twice turn<g ref="char:EOLhyphen"/>ed over from the Length 16, to 10.66 Gallons of Wine.</p>
+                     </div>
+                  </div>
+               </div>
+               <div n="4" type="proposition">
+                  <pb n="57" facs="tcp:133472:37"/>
+                  <head>PROP. IV. <hi>How to find the Content of any Pipe, Butt, Barrel, Hogſhhead or Cask.</hi>
+                  </head>
+                  <div type="example">
+                     <head>Example.</head>
+                     <p>Admit there is a Cask Repre<g ref="char:EOLhyphen"/>ſented by the Figure A B C D, whoſe Diametre at the Head A B is 18, and the Diametre at the Bung 32, and the Length is 40 Inches; and it be required to know how many Gallons of Ale or Wine the ſame will hold.</p>
+                     <figure>
+                        <figDesc>ale or wine cask, Figure ABCD</figDesc>
+                     </figure>
+                     <p>To find which there are ſeveral ways, but I ſhall only mention two, the firſt is Mr. <hi>Oghtreds</hi>'s Method,
+<pb n="58" facs="tcp:133472:38"/> which is thus, firſt by Propoſition the <hi>11th.</hi> of the 3<hi>d.</hi> Chapter of Meaſuring, find the Contents of the Circles at the Bung and Head, which you will find to be 254.57 Inches for the Contents of the Circle at the Head, and 804.57 for the Aria, or Contents of the Circle at the Bung, then take two Thirds of the Con<g ref="char:EOLhyphen"/>tents of the Circle at the Bung, which is 536.38, and one Third of the Contents of the Circle at the Head, which is 84.85, which add to<g ref="char:EOLhyphen"/>gether, whoſe Sum will be 621.23, which Multiply by the Length of the Veſſel 40, and the Product will be 24849.20 Inches, which is the Solid Content of the ſaid Veſſel, which Reduce into Gallons by Di<g ref="char:EOLhyphen"/>viding the ſame by 282 for beer or Ale, and by 231 for Wine, ſo will you find the ſaid Veſſel to hold 88.1 Gallons of Ale, or 107.57 Gallons of Wine, as in the follow<g ref="char:EOLhyphen"/>ing Work.</p>
+                     <pb n="59" facs="tcp:133472:38"/>
+                     <p>
+                        <gap reason="math">
+                           <desc>〈 math 〉</desc>
+                        </gap>
+                     </p>
+                     <pb n="60" facs="tcp:133472:39"/>
+                     <p>
+                        <gap reason="math">
+                           <desc>〈 math 〉</desc>
+                        </gap>
+                     </p>
+                     <pb n="61" facs="tcp:133472:39"/>
+                     <p> 
+                        <hi>Or thus,</hi>
+                     </p>
+                     <p>Square the Diametre at the Bung, 32, whoſe Square is 1024, which double, and it makes 2048, then you muſt Square the Diametre at the Head 18, whoſe Square is 324 which you muſt add to the double of the Square of the Diametre at the Bung 2048, and their Sum will be 2372, which Multiply by the Length of the Veſſel 40, the Product will be 94880, which you muſt Divide by 1077 for Ale, 880 for Wine, ſo will you find as before, the ſaid Veſſel to hold 88 104/1077 Gallons of Ale or 107 720/880 Gallons of Wine.</p>
+                  </div>
+                  <div type="methods">
+                     <head>How to perform the ſame by the Line of Numbers.</head>
+                     <p>To perform which you muſt find a mean Diametre, between the Diametre at the Head and Bung, thus take the difference between the Diametre at the Bung 32, and the Diametre at the Head 18, which is 14, which you muſt always Multiply by<g ref="char:punc">▪</g> 7, and Divide that Product by 10, and the Quotient you muſt Add to
+<pb n="62" facs="tcp:133472:40"/> the Leſſer Diametre and ſo will you have 27.8 for a mean Diametre then.</p>
+                     <div n="1" type="method">
+                        <head>I. <hi>For Ale.</hi>
+                        </head>
+                        <p>Extend your Compaſſes from the Gauging point 18.95 unto the mean Diametre 27.8 and the ſame diſtance will reach from the Length 40, be<g ref="char:EOLhyphen"/>ing Twice turned over to 88.11 Gal<g ref="char:EOLhyphen"/>lons of Ale.</p>
+                     </div>
+                     <div n="2" type="method">
+                        <head>II. <hi>For Wine.</hi>
+                        </head>
+                        <p>Extend your Compaſſes from the Gauging point 17.15 to the mean Diametre and the ſame Extent will reach from the length 40 being twice turned over to 107.57 Gallons of Wine.</p>
+                     </div>
+                  </div>
+               </div>
+               <div n="5" type="proposition">
+                  <head>PROP. V. <hi>How to Meaſure Brewers Tuns or Marſh-Fatts</hi>
+                  </head>
+                  <p>Admit there is a Tun or Marſh-Fat, Repreſented by the Figure
+<pb n="63" facs="tcp:133472:40"/> A B C D, whoſe Diametre at the bottom C D, is 88 and the Diame<g ref="char:EOLhyphen"/>tre at the top A B 80, Inches, and its Depth L I 96 Inches, and it be re<g ref="char:EOLhyphen"/>quired how many Barrels of Ale the ſame will hold.</p>
+                  <figure>
+                     <figDesc>brewer's tun or marsh-fat (marsh-vat?), Figure ABCD</figDesc>
+                  </figure>
+                  <p>To find which, firſt find the Solid Content of the ſame, as taught in Propoſition the <hi>6th.</hi> of the laſt Chap<g ref="char:EOLhyphen"/>ter which you will find to be 532625.92 Inches and 6/10, which Di<g ref="char:EOLhyphen"/>vide by 282 the Number of Cubick Inches contained in a Gallon, and the Quotient will be 1888.74, the Number of Gallons of Ale the ſame will hold, which Divide by 36, the Number of Gallons in a Barrel, and
+<pb n="64" facs="tcp:133472:41"/> the Quotient will be 52.46, the Num<g ref="char:EOLhyphen"/>ber of Barrels of Ale the ſame will hold, as in the following Work.</p>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+                  <pb n="65" facs="tcp:133472:41"/>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+                  <pb n="66" facs="tcp:133472:42"/>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+                  <pb n="67" facs="tcp:133472:42"/>
+                  <p>
+                     <hi>Or thus,</hi>
+                  </p>
+                  <p>Square the Diametres of the Top and Bottom, then Multiply one Di<g ref="char:EOLhyphen"/>ametre by the other, and Add that Product and the Square of the Two Diametres together, and Multiply their Sum by the Depth of the ſaid Veſſel, and that Product Divided by 1077, and the Quotient will give 1888, which is the Number of the Gallons of Ale the ſaid Veſſel will hold; which Reduce into Barrells as before.</p>
+                  <div type="method">
+                     <head>How to perform the ſame by the Line of Numbers.</head>
+                     <p>Firſt find a mean Diametre, thus Add the Two Diametres 80 and 88 together, and their Sum will be 168, then take half thereof, which is 84, for the mean Diametre: Then Ex<g ref="char:EOLhyphen"/>tend your Compaſſes from the Gauging Point for Barrels (of Ale or Beer), which is 113 7/10 unto the mean Diametre 84, and the ſame diſtance will reach from the Heighth 96, to turned twice over unto 52.44 Bar<g ref="char:EOLhyphen"/>rels.</p>
+                  </div>
+               </div>
+               <div n="6" type="proposition">
+                  <pb n="68" facs="tcp:133472:43"/>
+                  <head>PROP. VI. <hi>How to Meaſure an Oval Tun.</hi>
+                  </head>
+                  <p>Admit there is an Oval Tun Re<g ref="char:EOLhyphen"/>preſented by the Figure A B C D, whoſe Length at the Bottom C D is 120, and the Breadth K W 90, and the Length at the Top A B 112 and the breadth I L 84 and the Depth of the Veſſel L K 40 Inches; and it be required to know how many Bar<g ref="char:EOLhyphen"/>rels of Ale the ſame will hold.</p>
+                  <figure>
+                     <figDesc>oval tun, Figure ABCD</figDesc>
+                  </figure>
+                  <p>To find which you muſt firſt find a mean Number between the Length and Breadth of the Oval at the Bot<g ref="char:EOLhyphen"/>tom,
+<pb n="69" facs="tcp:133472:43"/> 
+                     <hi>viz.</hi> 120 and 90, by Multiply<g ref="char:EOLhyphen"/>ing the Length 120 by the Breadth 90, and the Product will be 10800, and then Extract the Square Root of that Product, and it will give 103 92 for the mean Number required, then likewiſe by the very ſame Me<g ref="char:EOLhyphen"/>thod you muſt find a mean Number, between the Length at the Top 112, and the Breath 84, which you will find to be 97, which Two mean Numbers you muſt Add together, and their Sum will be 200.90, then take half thereof, which is 100.46, which Multiply by the Depth of the Tun 40, and the Product will be 4018 40, which Divide by 359, and the Quotient will be the Number of Gallons of Ale the ſame will hold, which you will find to be 1119.331, which Reduce into Barrels by Dividing the ſame by 36, the Num<g ref="char:EOLhyphen"/>ber of Gallons, in a Barrel and the Quotient will give 31.09 Barrels.</p>
+                  <div type="method">
+                     <pb n="70" facs="tcp:133472:44"/>
+                     <head>How to perform the ſame by the Line of Numbers.</head>
+                     <p>To perform which firſt find the mean Numbers between the Length and the breadth of the Two Ovals. Thus Extend your Compaſſes from the Breadth of each Oval to its Length; then your Compaſſes be<g ref="char:EOLhyphen"/>ing opened to half that diſtance, will reach from the Breadth to the mean Number deſired, by which Method you will find the mean Numbers as before, to be 103.92 and 97, whoſe Sum is as before 200.92, the half of which is 100.46 which is the mean Diametre; then Extend your Com<g ref="char:EOLhyphen"/>paſſes from the Gauging Point for Barrels, which is 113.7 to the mean Diametre 100.46, and the ſame will reach from the the Depth 40, turn'd twice over unto 31.09 the Number of Barrels of Ale the ſaid Veſſel will hold.</p>
+                  </div>
+               </div>
+               <div n="7" type="proposition">
+                  <pb n="71" facs="tcp:133472:44"/>
+                  <head>PROP. VI. <hi>How to turn Barrels into Gallons, Beer-meaſure.</hi>
+                  </head>
+                  <p>To perform which, work by the following Proportion.</p>
+                  <p>As 1 is to 36, the Number of Gal<g ref="char:EOLhyphen"/>lons contained in a Barrel, ſo is the Number of Barrels given, to the Number of Gall<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ns contained therein.</p>
+                  <div type="example">
+                     <head>Example.</head>
+                     <p>Admit it be required to know, how many Gallons of Beer are con<g ref="char:EOLhyphen"/>tained in 6 Barrels.</p>
+                     <p>To perform which by Arithme<g ref="char:EOLhyphen"/>tick, work by the Rule of <hi>Three,</hi> as followeth:</p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </div>
+                  <div type="method">
+                     <pb n="72" facs="tcp:133472:45"/>
+                     <head>To perform the ſame by the Line of Numbers.</head>
+                     <p>Firſt, ſet one Foot of your Com<g ref="char:EOLhyphen"/>paſſes in 1, and extend the other to 36; then, with your Compaſſes at that diſtance, ſet one Foot in 6, and the other will reach to 216, the Num<g ref="char:EOLhyphen"/>ber of Gallons contained in the ſaid 6 Barrels.</p>
+                  </div>
+               </div>
+               <div n="8" type="proposition">
+                  <head>PROP. VIII. <hi>How to turn Gallons of Beer or Ale into Wine.</hi>
+                  </head>
+                  <p>To perform which, ſay, by the <hi>Rule of Three,</hi>
+                  </p>
+                  <p>As 9 is to 11,<lb/> So is the Number of Ale-Gallons<lb/> To the Number of Wine.</p>
+                  <div type="example">
+                     <head>Example.</head>
+                     <p>Admit there is a Veſſel that con<g ref="char:EOLhyphen"/>tains 66 Gallons of Beer, and it be required to know, how many Gal<g ref="char:EOLhyphen"/>lons of Wine the ſame will hold.</p>
+                     <pb n="73" facs="tcp:133472:45"/>
+                     <p> To perform which, by Arithme<g ref="char:EOLhyphen"/>tick, work by the <hi>Rule of Three,</hi> as followeth:</p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </div>
+                  <div type="method">
+                     <head>To Perform which by the Line of Num<g ref="char:EOLhyphen"/>bers.</head>
+                     <p>Set one Point of your Compaſs in 9, and extend the other to 11; then with your Compaſſes at that diſtance ſet one Point in 66, and the other will reach to 80.6.</p>
+                     <p>☞ Here Note that the Proporti<g ref="char:EOLhyphen"/>on between 9 and 11 was found by Multiplying 282, the Number of Cubick Inches in an Ale Gallon by 9, and Dividing that Product by 231, the Cubick Inches in a Wine Gallon, by which Method you will find 11
+<pb n="74" facs="tcp:133472:46"/> ſomething too much, tho it is near enough for ordinary uſe.</p>
+                  </div>
+               </div>
+               <div n="9" type="proposition">
+                  <head>PROP. IX. <hi>How to turn Gallons of Wine into Gal<g ref="char:EOLhyphen"/>lons of Ale.</hi>
+                  </head>
+                  <div type="example">
+                     <head>Example.</head>
+                     <p>Admit there is a Veſſel that will hold 44 Gallons of Wine, and it be required to know how many Gal<g ref="char:EOLhyphen"/>lons of Ale the ſame will hold.</p>
+                     <p>To perform which by Arithme<g ref="char:EOLhyphen"/>tick, work by the <hi>Rule of Three,</hi> as followeth.</p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </div>
+                  <div type="method">
+                     <pb n="75" facs="tcp:133472:46"/>
+                     <head>To Perform the ſame by the Line of Num<g ref="char:EOLhyphen"/>bers.</head>
+                     <p>Set one Foot of your Compaſſes in 11, and Extend the other to 9, then with your Compaſſes at that diſtance, ſet one Foot in 44, and the other will reach to 36, the Gal<g ref="char:EOLhyphen"/>lons of Ale the ſaid Veſſel will hold.</p>
+                  </div>
+               </div>
+               <div n="10" type="proposition">
+                  <head>PROP. X. <hi>How to turn Gallons of Ale into Bar<g ref="char:EOLhyphen"/>rels.</hi>
+                  </head>
+                  <div type="example">
+                     <head>Example.</head>
+                     <p>Admit there is a Veſſel that holds 216 Gallons, and it be required to know how many Barrels are con<g ref="char:EOLhyphen"/>tained therein.</p>
+                     <p>To perform which by Arithme<g ref="char:EOLhyphen"/>tiek, ſay by the <hi>Rule of Three,</hi> If 36, the number of the Gallons contain<g ref="char:EOLhyphen"/>ed in one Barrel will have one Bar<g ref="char:EOLhyphen"/>rel, what will 216 Gallons have,
+<pb n="76" facs="tcp:133472:47"/> and you will find the ſaid Veſſel to contain juſt 36 Barrels.</p>
+                  </div>
+                  <div type="method">
+                     <head>To Perform the ſame be the Line of Num<g ref="char:EOLhyphen"/>bers.</head>
+                     <p>To find which, ſet one foot of your Compaſſes in 36, and Extend the other to 1, then with your Com<g ref="char:EOLhyphen"/>paſſes at that diſtance ſet one Foot in 216, and turning the other towards 1, it will cut the Line in 36, the num<g ref="char:EOLhyphen"/>ber of Barrels contained in the ſaid Veſſel.</p>
+                  </div>
+               </div>
+               <div n="11" type="proposition">
+                  <head>PROP. XI. <hi>How to Gauge a Ship, and thereby to find how many Tuns her Burthen is.</hi>
+                  </head>
+                  <p>To perform which, Meaſure the Length of the Keel, the Breadth of the Midſhip-Beam, and the Depth of the Hold; which three Numbers Multiply one into the other, and Divide the Product 95, and the Quotient will give the true Burthen of any Merchant's Ship; but for M<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> of War, divide the Product
+<pb n="77" facs="tcp:133472:47"/> by 100, becauſe in Men of War there is allowance made for Ord<g ref="char:EOLhyphen"/>nance, Maſts, Sails, <hi>&amp;c.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IV. <hi>Of Meaſuring Artificers VVork,</hi> viz. <hi>Carpenters, Joyners, Plaſt<g ref="char:EOLhyphen"/>erers, Painters, Paviers, Glaſi<g ref="char:EOLhyphen"/>ers, Bricklayers,</hi> &amp;c.</head>
+               <p>BEcauſe the method I have uſed in Multiplying, may be new to many, altho it varies but very little from the method uſed by the com<g ref="char:EOLhyphen"/>mon Meaſurers; for I Work by <hi>Croſs Multiplication,</hi> as they do; all the difference is, I have ſuppoſed the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nch to be Divided into 12 equal parts, which I call <hi>Seconds,</hi> and each of thoſe Parts to be Divided into 12. other equal Parts, which I call <hi>Thirds, &amp;c.</hi> So is the Foot Divided Duodecimally, ſo that 12 <hi>Thirds</hi> makes 1 <hi>Second,</hi> 12 <hi>Seconds</hi> 1 <hi>Inch</hi> or <hi>Prime,</hi> 12 <hi>Inches</hi> 1 Foot.</p>
+               <pb n="78" facs="tcp:133472:48"/>
+               <p> Before I proceed I ſhall ſhew you how to Multiply after the Method I have uſed in this Chapter; to per<g ref="char:EOLhyphen"/>form which, obſerve the following general Rules.</p>
+               <div type="rules">
+                  <head>General Rules.</head>
+                  <list>
+                     <item>1. If you Multiply Feet into Feet, the Product will be Feet.</item>
+                     <item>2. If you Multiply Inches into Feet, the Product will be Inches.</item>
+                     <item>3. If you Multiply Inches into Inches, the Product will be Seconds.</item>
+                     <item>4. If you Multiply Seconds into Feet, the Product will be Seconds.</item>
+                     <item>5. If you Multiply Seconds into Inches, the Product will be Thirds.</item>
+                     <item>6. It you Multiply Seconds into Seconds, the Product will be Fourths.</item>
+                  </list>
+               </div>
+               <div type="example">
+                  <head>Example.</head>
+                  <p>Admit there is given 17 Feet, 11 Inches, 10 Seconds, to be Multiplyed by 6 Feet, 9 Inches, 4 Seconds.</p>
+                  <p>To perform which, firſt ſet down the Multiplicand and Multiplier, as in the following Work; then Mul<g ref="char:EOLhyphen"/>tiply the Feet in the Multiplicand 17 by the Feet, in the Multiplier 6,
+<pb n="79" facs="tcp:133472:48"/> and the Product will be 102 Feet; then Multiply the Feet in the the Mul<g ref="char:EOLhyphen"/>tiplicand 17, by the Inches in the Multiplier 9, and the Product will be 153 Inches, which is 12 Feet 9 Inches, which ſet down as in the following work, <hi>viz.</hi> the Feet under the Feet, and Inches under the Inches; likewiſe Multiply the Feet in the Multiplier 6, into the Inches in the Multiplicand 11, and the Product will be 66 Inches, which is 5 Feet 6 Inches, which likweiſe ſet down as you ſee in the work; then Multiply the Inches in the Multiplicand 11, into the Inches in the Multiplier 9, and the Product will be 99 Seconds, which is 8 Inches, 3 Seconds; ſet down the Inches under the Inches, and Seconds under the Seconds, as you ſee done; Then Multiply the Seconds in the Multiplicand 10, into the Feet in the Multiplier 6, and the Product will be 60 Seconds, which is juſt five Inches, which ſet down under the Inches; likewiſe Multi<g ref="char:EOLhyphen"/>ply the Seconds in the Multiplyer 4, into the Feet in the Multiply<g ref="char:EOLhyphen"/>cand 17, and the Product will
+<pb n="80" facs="tcp:133472:49"/> be 68 Seconds, which is 5 Inches, 8 Seconds, which ſet down as you ſee in the Work; then Multiply the Second in the Multiplier 4, into the Inches in the Multiplicand 11, and the Product will be 44 Thirds, which is 3 Seconds 8 Thirds; likewiſe Multiply the Seconds in the Multiplicand 10, into the Inches in the Multiplier 9, and the Product will be 90 Thirds, which is 7 Seconds and 6 Thirds, which likewiſe ſet down as in the Work; then Multiply the Seconds in the Multiplicand 10, into the Second in the Multiplier 4, and the Product will be 40 Fourths, which is 3 Thirds and 4 Fourths, which ſet down as in the Work, then add theſe ſeveral Products all up toge<g ref="char:EOLhyphen"/>ther, and the Sum will be 121 Feet, 10 Inches, 10 Seconds, 5 Thirds and 4 Fourths, which is the Product de<g ref="char:EOLhyphen"/>ſired.</p>
+                  <pb n="81" facs="tcp:133472:49"/>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div n="2" type="example">
+                  <head>
+                     <hi>Example</hi> 2.</head>
+                  <p>Admit it be required to Multiply 165 feet, 6 inches, 4 ſeconds by 79 feet, 2 inches, 3 ſeconds.</p>
+                  <p>To perform which, work in e<g ref="char:EOLhyphen"/>very reſpect as in the laſt Example, and you will find the Product to be 13107 feet 8 inches 9 ſeconds and 3 thirds, as in the following work.</p>
+                  <pb n="82" facs="tcp:133472:50"/>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="method">
+                  <head>How to Meaſure Carpenters Work.</head>
+                  <p>Carpenters Work, which is Floor<g ref="char:EOLhyphen"/>ing, Roofing, Partitioning, Joyſting, <hi>&amp;c.</hi> is Meaſured by the Square that is 10 feet every way, ſo that a ſquare containeth 100 ſuperficial feet, in Meaſuring of which, the thickneſs is not conſidered, but an allowance <gap reason="illegible" resp="#UOM" extent="3+ words">
+                        <desc>〈◊◊◊…〉</desc>
+                     </gap>, according to the
+<pb n="83" facs="tcp:133472:50"/> ſtrength or ſlightneſs of the work; ſo that the Meaſuring thereof is no other than the Meaſuring of a Plain Superficies, as before taught; nor in<g ref="char:EOLhyphen"/>deed is any other work belong<g ref="char:EOLhyphen"/>ing to Building, Except Bricklayers work.</p>
+               </div>
+               <div type="example">
+                  <head>Example.</head>
+                  <p>Admit there is a Floor or Partiti<g ref="char:EOLhyphen"/>oning which is 156 Feet 6 Inches in the Length, and 55 Feet 4 Inches in Breadth, whoſe Content is Re<g ref="char:EOLhyphen"/>quired.</p>
+                  <p>To perform which Multiply the Length by the Breadth, and the Product will be the Content in Feet and Inches, and then Divide the Feet by 100, and the quotient will give the Content in Squares, and the Remainder will be parts of a Square.</p>
+                  <p>To do which, by Croſs Mul<g ref="char:EOLhyphen"/>tiplication, firſt ſet down the Length and the breadth, as you ſee in the following Work. Then Multiply the Feet in the Length 165, by the Feet in the Breadth 55, and the Pro<g ref="char:EOLhyphen"/>duct
+<pb n="84" facs="tcp:133472:51"/> will be 9075 Feet, then Multi<g ref="char:EOLhyphen"/>ply the Feet in the Length 165 by the Inches in the Breadth 4, and the Product will be 660 Inches, which is 55 Feet, which Set down under the Feet as you ſee done; then Multi<g ref="char:EOLhyphen"/>ply the Feet in the Breadth 55, by the Inches in the Length 6, and the Product will be 330 Inches, which is 27 Feet 6 Inches, which Set down as in the Work, <hi>viz.</hi> the Foot under the Feet, and the Inches under the Inches, then Multiply the Inches in the Length 6, by the Inches in the Breadth 4, and the Product will be 24, which are ſeconds, 12 of which make an Inch, ſo that it is Juſt two Inches, which Set down as you ſee, then Draw a Line and Add theſe ſe<g ref="char:EOLhyphen"/>veral Products together, and the Sum will be 6157 Feet 8 Inches; then Divide the Feet by 100, the Number of Feet contained in the Square, which is done by only cut<g ref="char:EOLhyphen"/>ing off the two firſt Figures towards your right hand, <hi>viz.</hi> 75, which is 57/100 of a Square and the reſt Squares, which 57 Multiply by <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0, and divide that Product by 100, and the Quoti<g ref="char:EOLhyphen"/>ent
+<pb n="85" facs="tcp:133472:51"/> will give 5 Feet, and there will re<g ref="char:EOLhyphen"/>main 70 which is 70/100 of a Foot, which 70 likewiſe Multiply by 12, Divide by 100, and the Quoti<g ref="char:EOLhyphen"/>ent will give 7 Inches and 40/100 of an Inch, ſo have you found the Con<g ref="char:EOLhyphen"/>tent of the ſaid floor to be 91 Squares 5 Feet 7 Inches and 40/100 of an Inch, as in the following Work.</p>
+                  <gap reason="math">
+                     <desc>〈 math 〉</desc>
+                  </gap>
+               </div>
+               <div n="2" type="example">
+                  <pb n="86" facs="tcp:133472:52"/>
+                  <head>
+                     <hi>Example.</hi> 2.</head>
+                  <p>Admit there is a Floor of Joyſt<g ref="char:EOLhyphen"/>ing that is 65 Feet 8 Inches Long, and 15 Feet 4 Inches Broad, whoſe Content is Required.</p>
+                  <p>To find which work in every Reſpect as Taught in the former Example, and you will find the Content of the ſame to be 10 Squarse, 7 Inches, as you ſee in the Following Work.</p>
+                  <gap reason="math">
+                     <desc>〈 math 〉</desc>
+                  </gap>
+               </div>
+               <div type="method">
+                  <pb n="87" facs="tcp:133472:52"/>
+                  <head>How to Meaſure the Roof of any Build<g ref="char:EOLhyphen"/>ing.</head>
+                  <div type="example">
+                     <head>Example.</head>
+                     <p>Admit there is a Building that is 93 Feet Long, from the out-ſide of the Wall at one end, to the out-ſide of the Wall at the other end, and the Breadth from the out-ſide of one Wall, to the out-ſide of the other Wall 36 Feet; and it be required to know how many Squares of Roof<g ref="char:EOLhyphen"/>ing there is in that Building.</p>
+                     <p>To perform which, if the Building be true Roof'd, you need not Mea<g ref="char:EOLhyphen"/>ſure the Length of the Rafters or the ſide-pieces, but take this for a General Rule, <hi>viz.</hi> that the Length of each Rafter is three Fourths of the Breadth of any Building; ſo in this Example, the Breadth of the Building being 36 Feet ¾, thereof is 27 Feet, which is the Length of each Rafter, or Breadth of one ſide of the Roof, which being doubled, for ſo it muſt be, for both the ſides
+<pb n="88" facs="tcp:133472:53"/> is 54 Feet, which you muſt Multi<g ref="char:EOLhyphen"/>ply by the Length of the Building 93, and the Product will be 5022 feet for the Content of the ſaid Roof, which reduce into Squares by divi<g ref="char:EOLhyphen"/>ding the ſame by 100, ſo will you find 50 Squares, and 2 feet, and 20/100 of a foot, to be the Content of the Roof required, as in the following work.</p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </div>
+               </div>
+               <div type="method">
+                  <head>How to Meaſure the ſides of a Timber Building.</head>
+                  <div type="example">
+                     <head>Example.</head>
+                     <p>Admit there is a Timber Build<g ref="char:EOLhyphen"/>ing that is 36 feet broad at each
+<pb n="89" facs="tcp:133472:53"/> end, and 93 feet long, and the height to the Rafters, or ſide of the Roof, is 69 feet, whoſe Content is required.</p>
+                     <p>To perform which, becauſe the two ſides are equal, and likewiſe the two ends are equal, you need not ſtand to find the Content of each ſide ſeverally, but add all the four ſides together, whoſe ſum will be 258 feet, which Multiply by the height of the Building 69, and the product will be 17802, which re<g ref="char:EOLhyphen"/>duce into ſquares, ſo will you find the Content of all the four ſides of the ſaid wod -Building to be 178 ſquares, and 2/100 of a ſquare, as in the following Work.</p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </div>
+               </div>
+               <div type="method">
+                  <pb n="90" facs="tcp:133472:54"/>
+                  <head>How to Meaſure the Gable-end of a Tim<g ref="char:EOLhyphen"/>ber Building.</head>
+                  <div type="example">
+                     <head>Example.</head>
+                     <p>Admit it be required to find the Content of the Gable-end of a Build<g ref="char:EOLhyphen"/>ing whoſe breadth is 72 feet from the out-ſide of one Wall, to the out-ſide of the other, the Gable-end of which Building is repreſented by the fol<g ref="char:EOLhyphen"/>lowing Triangle ABC, whoſe Baſe A C, is 72 feet, equal to the Breadth of the Building, and the Perpendi<g ref="char:EOLhyphen"/>cular B Q is 36 feet.</p>
+                     <figure>
+                        <figDesc>triangle ABC</figDesc>
+                     </figure>
+                     <p>To find the Content of which, Multiply 72, the Baſe by 18, halve the Perpendicular, and the Product will give 1296 feet, which reduce in<g ref="char:EOLhyphen"/>to ſquares, ſo will you find the Con<g ref="char:EOLhyphen"/>tent of the ſaid Gable-end to be 12 ſquares, and 9 feet, and 6 Inches.</p>
+                  </div>
+               </div>
+               <div type="method">
+                  <pb n="91" facs="tcp:133472:54"/>
+                  <head>
+                     <hi>How to Meaſure Paving, Painting, Wainſcoting and Plaſtering,</hi> &amp;c.</head>
+                  <p>Theſe are all Meaſured by the Yard Square, containing 9 feet, ſo that in Meaſuring of this ſort of Work, all that it differs from the former, is only inſtead of Reducing the Content into Squares by divi<g ref="char:EOLhyphen"/>ding the ſame by 100, you muſt Re<g ref="char:EOLhyphen"/>duce it into Square Yards by divi<g ref="char:EOLhyphen"/>ding the feet by 9, the number of feet in a ſquare Yard.</p>
+                  <div n="1" type="example">
+                     <head>
+                        <hi>Example</hi> 1.</head>
+                     <p>Admit there is a Court that is Paved, containing 76 feet 6 Inches in Length, and 17 feet and four In<g ref="char:EOLhyphen"/>ches in Breadth, whoſe Content is re<g ref="char:EOLunhyphen"/>quired.</p>
+                     <p>To find which, Multiply the length of the ſaid Court 76 feet and 6 inches by the breadth 17 feet and 4 Inches, as before Taught, and the Product will be 136 feet, which feet Divide by 9, the number of feet in a Square Yard, and the Quotient will
+<pb n="92" facs="tcp:133472:55"/> be 147, and 3 will Remain, which is of a <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Yard ſo is the Content of the ſaid Court found to be 147 Square Yards and 3/9 of a Yard or one foot, as in the following Work.</p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </div>
+                  <div n="2" type="example">
+                     <head>
+                        <hi>Example</hi> 2.</head>
+                     <p>Admit there is a piece of Wain<g ref="char:EOLhyphen"/>ſcot that is 6 foot long, and 3 feet
+<pb n="93" facs="tcp:133472:55"/> 6 inches Broad, whoſe Content is re<g ref="char:EOLhyphen"/>quired.</p>
+                     <p>To perform which, work in every reſpect as in the foregoing Example, and the Anſwer will be 2 ſquare Yards, and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> of a Yard, or 1 foot, as in the following Work.</p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </div>
+                  <div n="3" type="example">
+                     <head>
+                        <hi>Example</hi> 3.</head>
+                     <p>Admit there is a Room that is 9 feet 6 inches long, and 8 feet Broad, and 7 feet high, which is Painted, whoſe Content is required.</p>
+                     <p>To perform which, firſt Multi<g ref="char:EOLhyphen"/>ply the breadth by the height, and the Product will be the Content of one end of the Room, which becauſe the two ends are alike, double the ſame, and it will give the Content of both the ends; then alſo Multi<g ref="char:EOLhyphen"/>ply
+<pb n="94" facs="tcp:133472:56"/> the length of the Room by the height, and the Product will be the Content of one of the ſides, which being doubled, becauſe the ſides are both alike, gives the Content of both ſides, which being added to the Con<g ref="char:EOLhyphen"/>tent of both the ends before found, the ſum is the Content of the 4 ſides of the Room required, which re<g ref="char:EOLhyphen"/>duce into ſquare yards, as before taught, by Dividing the ſame by 9, and the Anſwer will be 27 ſquare yards, and 2/9 of a yard. <g ref="char:dtristar">*⁎*</g>
+                     </p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                     <pb n="95" facs="tcp:133472:56"/>
+                     <p> 
+                        <g ref="char:dtristar">*⁎*</g> Note that the Demenſions of a Room that is Painted, is beſt taken by a String, becauſe of the Mouldings, which you bend as you pleaſe, and ſo Meaſure the Mould<g ref="char:EOLhyphen"/>ings with the reſt, which muſt be done as being part of the Paint<g ref="char:EOLhyphen"/>ing.</p>
+                  </div>
+                  <div type="example">
+                     <head>Example.</head>
+                     <p>Admit there is a Room that is Plaiſtered, that is 16 Feet 8 Inches Long, and 10 Feet 6 Inches Broad, and 7 Feet, 11 Inches High whoſe Content is Required.</p>
+                     <p>To perform which, find the Contents of the 4 ſides of the Rooms, as directed in the laſt Example, which you will find to be 430 Feet, 1 Inch and 8 Seconds, then find the Content of the Top of the Room, which is done by Multiplying the Length of the Room by the Breadth, <hi>viz.</hi> 16 Feet and 8 Inches, by 10 Feet and 6 Inches, and the Product will be 175 Feet, which Add to the Content of the ſides, and their Sum is the Content of the ſaid Room
+<pb n="96" facs="tcp:133472:57"/> which you will find to be 605 Feet 1 Inch and 8 Seconds, which Re<g ref="char:EOLhyphen"/>duce into Yards, as before taught and ſo will the Anſwer be 67 Square Yards and 2/9 of a Yard. As in the following Work.</p>
+                     <p>
+                        <hi>Note that in Meaſuring of Plaiſterers Work, there is no allowance made for the Windows, Doors or Chimnies.</hi>
+                     </p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                     <pb n="97" facs="tcp:133472:57"/>
+                     <p> But here I judge it may not be im<g ref="char:EOLhyphen"/>proper to add, how to find the Su<g ref="char:EOLhyphen"/>perficial Content of Solid Bodies, becauſe Painters do very frequently Paint ſuch Bodies.</p>
+                  </div>
+               </div>
+               <div type="methods">
+                  <head>How to find the Superficial Content of any Solid Body.</head>
+                  <div n="1" type="method">
+                     <head>Firſt, <hi>How to find the Superficial Con<g ref="char:EOLhyphen"/>tent of a Cylinder.</hi>
+                     </head>
+                     <p>Multiply the Length by the Cir<g ref="char:EOLhyphen"/>cumference, and the Product will be the Superficial Content deſired.</p>
+                     <div type="example">
+                        <head>Example.</head>
+                        <p>Admit there is a Round Pillar that is Painted, whoſe Circumfe<g ref="char:EOLhyphen"/>rence is 5 Feet, 10 Inches, and the Length thereof is 12 Feet, 8 Inches, and it be required to know how many Yards Square of Painting there is in the ſame.</p>
+                        <p>To perform which, Multiply the Length 12 Feet, 8 Inches, by the Circumference, 5 Feet, ″ 10 Inches, and the Product will give, 73 Feet, 10 Inches, 8 Seconds, for
+<pb n="98" facs="tcp:133472:58"/> the Superficial Content of the ſaid Pillar, which Reduce into Yards, Dividing the Feet by 9, and the Quotient, will give 8 1/9 Yards, for the Content of the ſaid Painting.</p>
+                     </div>
+                  </div>
+                  <div n="2" type="method">
+                     <head>Secondly, <hi>How to find the Superficial Con<g ref="char:EOLhyphen"/>tent of a Parallelepipedon or Square Pillar.</hi>
+                     </head>
+                     <p>Add the four Breadths together, and Multiply their Sum by the Length, and the Product will be the Superficial Content of the Square Pillar deſired.</p>
+                  </div>
+                  <div n="3" type="method">
+                     <head>Thirdly, <hi>How to find the Superficial Content of a Cone.</hi>
+                     </head>
+                     <p>Multiply half the Circumference at the Baſe by the Height of the Cone, or Multiply half the Height of the Cone by the Circumference at the Baſe, and the Product ſhall be the Superficial Content deſi<g ref="char:EOLhyphen"/>red.</p>
+                  </div>
+                  <div n="4" type="method">
+                     <pb n="99" facs="tcp:133472:58"/>
+                     <head>Fourthly, <hi>How to find the Superficial Content of a Pyramid.</hi>
+                     </head>
+                     <p>Add all the Dimenſions of the Sides at the Baſe together, and Mul<g ref="char:EOLhyphen"/>tiply half their Sum by the Height of the Pyramid, or Multiply half the Height of the Pyramid, by the Sum of all the ſides at the Baſe, and the Product, will give the Su<g ref="char:EOLhyphen"/>perficial Content thereof.</p>
+                  </div>
+                  <div n="5" type="method">
+                     <head>Fifthly, <hi>How to find the Superficial Content of a Globe or Sphere.</hi>
+                     </head>
+                     <p>Multiply the Diametre, by the Circumference and the Product, will be the Superficial Content there<g ref="char:EOLhyphen"/>of.</p>
+                  </div>
+               </div>
+               <div type="method">
+                  <head>How to Meaſure Glaziers Work.</head>
+                  <p>Glaziers Work is Meaſured by the Foot, and therefore Multiply the Length, by the Breadth, as before, and the Product is the Content re<g ref="char:EOLhyphen"/>quired. But becauſe the Dimenſi<g ref="char:EOLhyphen"/>ons of Glaziers Work is taken more exact
+<pb n="100" facs="tcp:133472:59"/> than any other ſort of Work, <hi>viz.</hi> in Feet, Inches, and part of an Inch; which makes the reſolution of queſtions of that kind, for the moſt part, ſomething more difficult, than any of the foregoing; there<g ref="char:EOLhyphen"/>fore I will ſhew you how to per<g ref="char:EOLhyphen"/>form the ſame here, altho I ſhewed the ſame thing in the beginning of this Chapter.</p>
+                  <div type="example">
+                     <head>Example.</head>
+                     <p>Admit there is a Pane of Glaſs that is 6 Feet 8 Inches (or Primes) 6 Seconds in Length, and 5 Feet 9 Inches (or Primes) and 3 Seconds in Breadth, whoſe Content is requir<g ref="char:EOLhyphen"/>ed.</p>
+                     <p>To perform which, firſt ſet down the Dimenſions, as you ſee in the following Work, then Multiply the Feet in the Length 6, into the Feet in the Breadth 5, and the Product will be 30, which ſet down under the Feet, as in the Work; then Mul<g ref="char:EOLhyphen"/>tiply the Inches in the Breadth 9, into the Feet in the Length 6, and the Product will be 54, which are
+<pb n="101" facs="tcp:133472:59"/> Inches, which is 4 Feet 6 Inche which likewiſe ſet down, as in the Work, then Multiply the Inches in the length 8, into the Feet in the Breadth 5, and the Product will be 40, which likewiſe are Inches, which is 3 Feet 4 Inches, which likewiſe ſet down as you ſee in the Work, then Multiply the Inches in the Breadth 9, into the Inches in the Length 8, and the Product will be 72, which are parts of Inches or Seconds which is Juſt 6 Inches, then Multiply the Seconds in the Breadth 3, into the Feet in the Length 6, and the Product is 18, which are Seconds, which is 1 Inch 6 Seconds; then Multiply the Seconds in the Length 6, into the Feet in the Breadth 5, and the Product is 30, which are likewiſe Seconds, which is 2 Inches 6 Seconds, all which ſet down as in the following Work. Then Multiply the Seconds in the Breadth 3, into the Inches in the Length 8, and the Product is 24, which are parts of Seconds or Thirds, which is 2 Seconds, then Multiply the Seconds in the Length
+<pb n="102" facs="tcp:133472:60"/> 6, into the Inches, in the Inches, in in the Breadth 9, and the Product is 54, which likewiſe is Thirds, which likewiſe is 4 Seconds 6 Thirds, both which ſet down, as you ſee in the following Work <hi>Laſtly,</hi> Mul<g ref="char:EOLhyphen"/>tiply the Seconds in the Breadth 3, into the Seconds in the Length 6, and the Product is 18, which are Parts of Thirds or Fourths, which is 1 Third, and 6 Fourths; which ſet down as in the Work, then Add all theſe Products together, and their Sum is the Product of 6 Feet, 8 Inches, 6 Seconds, Multiplied by 5 Feet, 9 Inches, and 3 Seconds; which is 38 Feet, 8 Inches, 6 Seconds, 7 Thirds, and 6 Fourths, which is the Content of the Pane of Glaſs required, as in the following Work.</p>
+                     <pb n="103" facs="tcp:133472:60"/>
+                     <p>
+                        <gap reason="math">
+                           <desc>〈 math 〉</desc>
+                        </gap>
+                     </p>
+                  </div>
+                  <div type="example">
+                     <head>Example.</head>
+                     <p>Admit there is a Pane of Glaſs that is 13 Feet, 6 Inches, and 5 Se<g ref="char:EOLhyphen"/>conds Long, and 6 Feet, 3 Inches, and 9 Seconds Broad, whoſe Con<g ref="char:EOLhyphen"/>tent is required.</p>
+                     <p>To perform which Work in e<g ref="char:EOLhyphen"/>very reſpect as in the laſt Example, and its Content will be found to be 85 Feet, 5 Inches, 3 Seconds, 9 Thirds, as in the following Work.</p>
+                     <pb n="104" facs="tcp:133472:61"/>
+                     <p>
+                        <gap reason="math">
+                           <desc>〈 math 〉</desc>
+                        </gap>
+                     </p>
+                  </div>
+               </div>
+               <div type="method">
+                  <head>How to Meaſure Bricklayers Work.</head>
+                  <p>The Meaſuring of which is more difficult, than any ſort of Work that belongs to Building.</p>
+                  <div type="rules">
+                     <head>In Meaſuring of which, Obſerve theſe General Rules following.</head>
+                     <p>
+                        <hi>Firſt,</hi> Find the Superficial Con<g ref="char:EOLhyphen"/>tent of each Wall, then find the Superficial Content of all the Win<g ref="char:EOLhyphen"/>dows and Doors in each Wall, and Subtract them from the Superfici<g ref="char:EOLhyphen"/>al
+<pb n="105" facs="tcp:133472:61"/> Content of the Wall in which they are, and the Remainder will be the Content of the Brick-work of each Wall, in its given thick<g ref="char:EOLhyphen"/>neſs.</p>
+                     <p>
+                        <hi>Secondly,</hi> That all Walls of what thickneſs ſoever, muſt be Reduced into a Brick and a half thick, by Multiplying the Content by the number of half Bricks, contained in the thickneſs of the Wall, and the Product will be the Content of the ſaid Wall in half a Brick thick, which Divide by 3, the number of the half Bricks, in a Brick and a half, and the Quotient will be the Content of the Wall, in a Brick and a half.</p>
+                     <p>
+                        <hi>Thirdly,</hi> That whereas Carpenters Work is Meaſured by the Square, that is 10 Feet, every way, ſo that the Square contains 100 Feet; ſo Brick-work is Meaſured by the Square Rod, that is, 16 <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>/2 Feet every way, ſo that the Rod contains 272 Feet.</p>
+                     <p>
+                        <hi>Fourthly,</hi> Having found the Con<g ref="char:EOLhyphen"/>tent of all the Walls of any Build<g ref="char:EOLhyphen"/>ing, in a Brick and half thick, Add
+<pb n="106" facs="tcp:133472:62"/> them all into one Sum, and Re<g ref="char:EOLhyphen"/>duce the ſame into Rods, by Di<g ref="char:EOLhyphen"/>viding it by 272 the number of the Feet in a Rod, and the Quotient will be the number of Rods, of Brick-work contained in the ſaid Building.</p>
+                  </div>
+                  <div type="example">
+                     <head>Example.</head>
+                     <p>Admit there is a Building, in which the Walls to the firſt Floor are as followeth, <hi>viz.</hi> the Wall on the Front, and the Back-ſide, are each 16 Feet, 9 Inches Long, the Wall on the Front being 3 Bricks thick, and the Wall at the Back 3 Bricks and a ½ thick, having in each a Door of the ſame Dimenſions <hi>viz.</hi> 2 Feet 6 Inches Wide, and 6 Feet 4 inches High, and in the Front Wall are 2 Windows a-like, each 3 Feet 6 Inches Wide, and 6 Feet 4 Inches High; and the Wall on the Back, hath 2 Windows, one of which is 2 Feet 4 Inches Wide, and 5 Feet 6 Inches High, and the other 3 Feet 2 Inches Wide, and 5 Feet 11 Inches High; and the
+<pb n="107" facs="tcp:133472:62"/> ſide Walls are each 24 Feet 9 Inches Long, and 2 Bricks thick, and the Floor is 9 Feet 6 Inches High; and it be required to know how many Rods of Brick-work there is in all the Walls to the firſt Floor.</p>
+                     <p>To perform which, firſt find the Superficial Content of the Front Wall, which is done by Multi<g ref="char:EOLhyphen"/>plying it's Length 16 Feet 9 Inches, into the Heighth of the Wall, or Heighth of the Floor, which is the ſame, <hi>viz.</hi> 9 Feet 6 Inches, and the Product will be 159 Feet, 1 Inch, 6 Seconds, which is the Superfi<g ref="char:EOLhyphen"/>cial Content of the Front Wall, and becauſe the Front and Back Wall are of the ſame Length, and the Walls of one Height, it is like<g ref="char:EOLhyphen"/>wiſe the Superficial Content of the Back Wall, as in the following Work.</p>
+                     <pb n="108" facs="tcp:133472:63"/>
+                     <p>
+                        <gap reason="math">
+                           <desc>〈 math 〉</desc>
+                        </gap>
+                     </p>
+                     <p>Then find the Superficial Content of the Door and Windows in the Front Wall.</p>
+                     <div n="1" type="subsection">
+                        <head>I. <hi>To find the Content of the Door.</hi>
+                        </head>
+                        <p>Multiply it's Breadth 2 Feet 10 Inches, and the Product will be 26 Feet 11 Inches, for the Con<g ref="char:EOLhyphen"/>tent of the Door, as in the follow<g ref="char:EOLhyphen"/>ing Work.</p>
+                        <pb n="109" facs="tcp:133472:63"/>
+                        <p>
+                           <gap reason="math">
+                              <desc>〈 math 〉</desc>
+                           </gap>
+                        </p>
+                        <p>Now becauſe the Door in the Front Wall, and the Door in the Back Wall, are alike having found the Content of the one, the Content of the other is likewiſe found.</p>
+                     </div>
+                     <div n="2" type="subsection">
+                        <head>II. <hi>To find the Content of the Win<g ref="char:EOLhyphen"/>dows.</hi>
+                        </head>
+                        <p>Which are 2, both a like, <hi>viz:</hi> each 3 <hi>Feet,</hi> 6 <hi>Inches</hi> Wide, and 6 <hi>Feet,</hi> 4 <hi>Inches</hi> High; ſo that Multiply the Breadth, 3 <hi>Feet,</hi> 6 <hi>Inches,</hi> into the Height, 6 <hi>Feet,</hi> 4 <hi>Inches,</hi> and the Product will be 22 <hi>Feet,</hi> 2 <hi>Inches,</hi> for the Con<g ref="char:EOLhyphen"/>tent of one of the Windows, which becauſe the Wall in which they are
+<pb n="110" facs="tcp:133472:64"/> placed, is all of one thickneſs, there<g ref="char:EOLhyphen"/>fore double the ſame, and you will have 44 <hi>Feet,</hi> 4 <hi>Inches,</hi> for the Content of both Windows in the Front Wall, as in the following Work.</p>
+                        <gap reason="math">
+                           <desc>〈 math 〉</desc>
+                        </gap>
+                        <p>Thus having found the Content of the Front Wall, to be 159 <hi>Feet,</hi> 1 <hi>Inch,</hi> 6 <hi>Seconds,</hi> and the Content of the Door therein to be 26 <hi>Feet,</hi> 11 <hi>Inches,</hi> and likewiſe the Content of the Windows in the ſaid Wall to be 44 <hi>Feet,</hi> 4 <hi>Inches.</hi>
+                        </p>
+                        <pb n="111" facs="tcp:133472:64"/>
+                        <p> Then ſet down the Content of the Door and Windows, one under the other, and Add them together as in the following Work, and their Sum will be 71 <hi>Feet,</hi> and 3 <hi>Inches,</hi> which Subſtract from the Content of the Wall, before found to be 159 <hi>Feet,</hi> 1 <hi>Inch,</hi> 6 <hi>Seconds,</hi> and the Remainder will be 87 <hi>Feet,</hi> 10 <hi>In<g ref="char:EOLhyphen"/>ches,</hi> 6 <hi>Seconds,</hi> which is the Con<g ref="char:EOLhyphen"/>tent of the Brick work in the Front Wall, in the given thickneſs, <hi>viz.</hi> 3 Bricks thick, as in the following Work.</p>
+                        <gap reason="math">
+                           <desc>〈 math 〉</desc>
+                        </gap>
+                        <p>Then by the ſame method, find the Contents of the Brick-work in the Back-Wall, whoſe Superficial Content is already found to be 159 <hi>Feet,</hi> 1 <hi>Inch,</hi> 6 <hi>Seconds,</hi> and like<g ref="char:EOLhyphen"/>wiſe the Door in the ſaid Wall, is likewiſe found to be 26 <hi>Feet,</hi> 11 <hi>In<g ref="char:EOLhyphen"/>ches,</hi>
+                           <pb n="112" facs="tcp:133472:65"/> being both the ſame with thoſe in the Front, ſo that there Remains only the Windows in this Wall to be found.</p>
+                        <p>To perform which, Multiply their Width into their Height, as before, ſo will you find the Content of the one to be 12 <hi>Feet,</hi> 10 <hi>Inches,</hi> and the Content of the other, to be 18 <hi>Feet,</hi> 8 <hi>Inches,</hi> 10 <hi>Seconds,</hi> as in the following Work.</p>
+                        <gap reason="math">
+                           <desc>〈 math 〉</desc>
+                        </gap>
+                        <p>Then Add the Content of the Door and Windows together, and Subſtract their Sum from the Content of the Wall, as before, and the Re<g ref="char:EOLhyphen"/>mainder will be 100 <hi>Feet,</hi> 7 <hi>Inches,</hi> 8 <hi>Seconds,</hi> which is the Content of
+<pb n="113" facs="tcp:133472:65"/> the Brick-Work, in the Back Wall, in the given thickneſs of 3 ½ Bricks thick.</p>
+                        <gap reason="math">
+                           <desc>〈 math 〉</desc>
+                        </gap>
+                     </div>
+                     <div type="subsection">
+                        <head>
+                           <hi>Then find the Content of the ſide Walls, which are each</hi> 24 <hi>Feet,</hi> 6 <hi>In<g ref="char:EOLhyphen"/>ches, Long.</hi>
+                        </head>
+                        <p>To perform which Multiply the Length 24 <hi>Feet,</hi> 9 <hi>Inches,</hi> into the Height 6 <hi>Feet,</hi> 6 <hi>Inches,</hi> and the Product will be 235 <hi>Feet,</hi> 1 <hi>Inch,</hi> 6 <hi>Seconds,</hi> for the Content of one of the ſide Walls, which are a like in Length, Height, and Thickneſs, therefore double the ſame and you will have 470 <hi>Feet,</hi> 3 <hi>Inches,</hi> for the Brick-Work of both the ſide Walls, in the given thickneſs, <hi>viz.</hi> 2 Bricks thick, as in the following Work.</p>
+                        <pb n="114" facs="tcp:133472:66"/>
+                        <p>
+                           <gap reason="math">
+                              <desc>〈 math 〉</desc>
+                           </gap>
+                        </p>
+                        <p>Thus having found the Content of all the Walls, to the firſt Floor, to be as followeth, <hi>viz.</hi> the Wall on the Front 87 <hi>Feet,</hi> 10 <hi>Inches,</hi> 6 <hi>Seconds,</hi> in 3 Bricks thick, and the Wall on the Back 100 <hi>Feet,</hi> 7 <hi>Inches,</hi> 8 <hi>Seconds,</hi> in 3½ Bricks thick and the 2 ſide Walls 470 <hi>Feet,</hi> 3 <hi>In<g ref="char:EOLhyphen"/>ches,</hi> in 2 Bricks thick.</p>
+                        <p>After the ſame manner find the Content of all the Walls, to the Se<g ref="char:EOLhyphen"/>cond Floor, and ſo on till you have found the Content of all the Brick Walls in the Building you are to Meaſure.</p>
+                        <pb n="115" facs="tcp:133472:66"/>
+                        <p> Having ſo done there Remains no<g ref="char:EOLhyphen"/>thing more to be done, only that you Reduce the Content of each Wall, into a Brick and a half thick, and Add them all into 1 Sum, and Re<g ref="char:EOLhyphen"/>duce, your Sum into Rods, by the former Rules. But becauſe in all Building you find ſeveral Walls of one thickneſs, therefore the beſt way to perform the ſame, is as followeth, Set down the Content of all the Walls of one thickneſs by them<g ref="char:EOLhyphen"/>ſelves, and all the Walls of another thickneſs by themſelves, in Columns Ruled for that purpoſe, as in this Example.</p>
+                        <gap reason="math">
+                           <desc>〈 math 〉</desc>
+                        </gap>
+                        <p>
+                           <table>
+                              <row role="label">
+                                 <cell cols="3">2 Bricks.</cell>
+                                 <cell cols="3">3½ Bricks</cell>
+                                 <cell cols="3">3 Bricks</cell>
+                              </row>
+                              <row role="label">
+                                 <cell>F.</cell>
+                                 <cell>I.</cell>
+                                 <cell>S.</cell>
+                                 <cell>F.</cell>
+                                 <cell>I.</cell>
+                                 <cell>S.</cell>
+                                 <cell>F.</cell>
+                                 <cell>I.</cell>
+                                 <cell>S.</cell>
+                              </row>
+                              <row>
+                                 <cell>209″</cell>
+                                 <cell>3″</cell>
+                                 <cell>0</cell>
+                                 <cell>100″</cell>
+                                 <cell>7″</cell>
+                                 <cell>8</cell>
+                                 <cell>87″</cell>
+                                 <cell>10″</cell>
+                                 <cell>0</cell>
+                              </row>
+                           </table>
+                        </p>
+                        <p>The Content of the Front Wall was found as before, to be 87 <hi>Feet,</hi> 10 <hi>Inches,</hi> in 3 Bricks thick, which ſet down a Column marked at the Top with it's thickneſs, as you ſee
+<pb n="116" facs="tcp:133472:67"/> is done here, and under the ſame, in the Column, place the Content of all the reſt of the Walls of the ſame thickneſs, and the like is to be underſtood of all the reſt, of the Wall of any Building whatſoever, then Add each Column up, and Reduce the Sum of each, Column into a Brick and ½ thick, and when ſo done, Add them all together, and Divide their <hi>Feet</hi> in their Sum by 272, the Number of <hi>Feet</hi> in a Rod, and the Quotient will be the Content of the ſaid Building, in Rods. but in this Example, the trouble of Adding each Column is Spared, becauſe there is but one Row of Figures in each Column, which, that the foregoing Rules may be the better underſtood, we will call the Sum of each Column; to Reduce which Columns into 2 ½ Brick.</p>
+                        <p n="1">1. Take the Sum of the firſt Column towards your Right Hand, which is 207 <hi>Feet,</hi> 3 <hi>Inches,</hi> which is the Content of all the Walls in this Example, which are 2 Bricks
+<pb n="117" facs="tcp:133472:67"/> thick, and Multiply the ſame by 4, the Number of half Bricks Con<g ref="char:EOLhyphen"/>tained in the thickneſs, and the Product will be 829 <hi>Feet,</hi> which is the Content of the ſaid Walls, in ½ a Brick thick, which Divide by 3, the Number of ½ Bricks, contained in 1 ½ Brick, and the Quotient will be 276 <hi>Feet,</hi> 4 <hi>Inches,</hi> which is the Content of all the Walls of 2 Bricks thick, in 1 ½ Brick thick, as in the following Work.</p>
+                        <gap reason="math">
+                           <desc>〈 math 〉</desc>
+                        </gap>
+                        <pb n="118" facs="tcp:133472:68"/>
+                        <p> Then take the Sum of the Second Column, 100 <hi>Feet,</hi> 7 <hi>Inches,</hi> 8 <hi>Se<g ref="char:EOLhyphen"/>conds,</hi> which Multiply by 7, the num<g ref="char:EOLhyphen"/>ber of the ½ Bricks contained in the thickneſs, and the Product will be 704 <hi>Feet,</hi> 5 <hi>Inches,</hi> 8 <hi>Seconds,</hi> which Divide by 3, the Number of ½ Bricks contained in 1 Brick and ½, and the Quotient will be 234 <hi>Feet,</hi> 9 <hi>Inches,</hi> 10 <hi>Seconds,</hi> the Content of all the VValls of 3 ½ Bricks thick, in 1 ½ Brick thick, as in the follow<g ref="char:EOLhyphen"/>ing VVork.</p>
+                        <gap reason="math">
+                           <desc>〈 math 〉</desc>
+                        </gap>
+                        <pb n="119" facs="tcp:133472:68"/>
+                        <p> Then likewiſe Reduce the Sum of the Third Column 87 <hi>Feet,</hi> 10 <hi>Inches,</hi> after the ſame Method, into 1 Brick and ½ thick, which you will find to be 175 <hi>Feet,</hi> 8 <hi>Inches,</hi> as in the following VVork.</p>
+                        <gap reason="math">
+                           <desc>〈 math 〉</desc>
+                        </gap>
+                        <p>Thus having Reduced the Sum, of each Column in this Example, into 1 Brick and ½ thick, Add them all together, and their Sum will be 686 <hi>Feet,</hi> 9 <hi>Inches,</hi> 10 <hi>Seconds,</hi> which is the Content of all the Brick-VVork Required, in 1 Brick
+<pb n="120" facs="tcp:133472:69"/> and ½ thick, which Reduce into Rods, by Dividing it by 272, the Number of <hi>Feet</hi> contained in a Rod, ſo will you have 2 Rods, and 142/272 of a Rod, which is ſomthing a<g ref="char:EOLhyphen"/>bove ½ a Rod, for the Content of the Brick-Work, to the firſt floor re<g ref="char:EOLhyphen"/>quired, as in the following Work.</p>
+                        <gap reason="math">
+                           <desc>〈 math 〉</desc>
+                        </gap>
+                        <p>What hath been ſaid, I ſuppoſe is ſufficient to Explain the beforegoing Rules, ſo that to give you any more Examples of that kind will be need<g ref="char:EOLhyphen"/>les.</p>
+                        <p>But becauſe there is ſome Walls that have Watet-tables, that is Built ſome 3, ſome 5 <hi>Feet</hi> High, which Water-table is many times ½ a Brick thick, and ſome times more, I ſhall ſhew you how to Mea<g ref="char:EOLhyphen"/>ſure any ſuch Wall.</p>
+                        <pb n="121" facs="tcp:133472:69"/>
+                        <p> To Meaſure which, firſt find the Content of the Wall, as before taught, and Reduce the ſame into Brick and half Thick, then find the Content of the Water-Table, after the ſame manner, and likewiſe Reduce it into 1 ½ Brick Thick, then Add the Content of the Water-Table, to the Content of the Wall, and the Sum is the Content of the ſaid Wall with the Water-Table, which Reduce into Rods, as before Taught.</p>
+                        <div type="example">
+                           <head>Example.</head>
+                           <p>Admit rhere is a Wall that is 2 Bricks Thick being 91 Feet, 6 Inches Long, and 17 Feet, 3 Inches high, which hath a Water-Table ½ a Brick Thick, and 3 Feet High, whoſe Content is required.</p>
+                           <p>To find which, firſt find the Con<g ref="char:EOLhyphen"/>tent of the Wall by Multiplying the Heighth into the Length, and the Pro<g ref="char:EOLhyphen"/>duct will be 1578 Feet, 4 Inches, 6 Seconds, which Reduce into 1 ½ Brick Thick, by Multiplying it by 4, the Number of half Bricks, contained in
+<pb n="122" facs="tcp:133472:70"/> the given Thickneſes, and Dividing the Product by 3 the Number of half Bricks contained in 1½ Brick, and ſo will you find the Content of the Wall in Brick and ½ Thick to be 2104 Feet, 6 Inches, as in the follow<g ref="char:EOLhyphen"/>ing Work.</p>
+                           <p>
+                              <gap reason="math">
+                                 <desc>〈 math 〉</desc>
+                              </gap>
+                           </p>
+                           <pb n="123" facs="tcp:133472:70"/>
+                           <p>
+                              <gap reason="math">
+                                 <desc>〈 math 〉</desc>
+                              </gap>
+                           </p>
+                           <p>Then find the Content of the Wa<g ref="char:EOLhyphen"/>ter-Table, by Multiplying it's Heigth 3 Feet, into the Length of the Wall 91 Feet, 6 Inches, and the Product will be 274 Feet, 6 Inches, which Re<g ref="char:EOLhyphen"/>duce into 1½ Brick Thick, which be<g ref="char:EOLhyphen"/>cauſe the Thickneſs of the ſaid Wa<g ref="char:EOLhyphen"/>ter-Table is a ½ Brick Thick is done by the Dividing by 3, and the Quo<g ref="char:EOLhyphen"/>tient will be 91 Feet, 6 Inches, for the Content of the ſaid Water-Table in Brick and ½, as in the Following Work.</p>
+                           <pb n="124" facs="tcp:133472:71"/>
+                           <p>
+                              <gap reason="math">
+                                 <desc>〈 math 〉</desc>
+                              </gap>
+                           </p>
+                           <p>Then Add the Content of the Wall in a Brick and half Thick, before found to be 2104 <hi>Feet,</hi> 6 <hi>In<g ref="char:EOLhyphen"/>ches,</hi> to the Content of the Water-Table in 1½ Brick thick and their Sum will be 2196 <hi>Feet,</hi> for the Content of the Wall Required, which you muſt Reduce into Rods, as before taught, ſo will you find 8 Rods, and 20 <hi>Feet,</hi> of Brick-Work, to be in the ſaid Wall, as in the follow<g ref="char:EOLhyphen"/>ing Work.</p>
+                           <pb n="125" facs="tcp:133472:71"/>
+                           <p>
+                              <gap reason="math">
+                                 <desc>〈 math 〉</desc>
+                              </gap>
+                           </p>
+                        </div>
+                     </div>
+                  </div>
+                  <div type="method">
+                     <head>How to Meaſure Chimnies.</head>
+                     <p>The Common way allowed by all Meaſurers, is thus, girt the Chimney Round, below the Mantle-Tree; if it be in a Wood Building where the Wall of the Houſe, doth go to make the Back of the Chimney, and take the girt of the Chimny for the length, and the heighth of the Room, for the Breadth, and then Multiply the one into the other, and the Product take for the Content, in the ſame thickneſs as the Jaumes are on, which muſt be Reduced into 1½ Brick.</p>
+                     <p>But if the Chimney ſtands againſt a Brick Wall, then the Wall at the Back being the ſame with the Wall of the Houſe, and therefore being
+<pb n="126" facs="tcp:133472:72"/> Meaſured, as Part of the Wall, they only girt it Round to the Wall, and Multiply that into the height of the Room, and take the Product for the Content of the Chimney in the ſame thickneſs as the Jaums are on, which you muſt Re<g ref="char:EOLhyphen"/>duce as before into 1 ½ Brick thick.</p>
+                  </div>
+                  <div type="example">
+                     <head>Example.</head>
+                     <p>Admit there is a Chimney whoſe girt round below the Mantle Tree, is 10 <hi>Feet,</hi> 6 <hi>Inches,</hi> and the height of the Room where the ſame ſtands, 9 <hi>Feet,</hi> the Jaums of which Chim<g ref="char:EOLhyphen"/>ny, is 2 Bricks thick, whoſe Content is required.</p>
+                     <p>To perform which, Multiply the girt 10 <hi>Feet,</hi> 6 <hi>Inches,</hi> into the height of the Room 9 <hi>Feet,</hi> and the Product will give 94 <hi>Feet,</hi> 6 <hi>Inches,</hi> for the Content of the ſaid Chimny, in the ſame thickneſs as the Jaumes is off, which <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s 2 Bricks thick, which you mu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t Reduce into 1 ½ Brick thick, as before directed, ſo will you find the Content thereof in Brick and one
+<pb n="127" facs="tcp:133472:72"/> half to be 129 <hi>Feet,</hi> as in the follow<g ref="char:EOLhyphen"/>ing Work.</p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                     <p>Having by ſome of the before go<g ref="char:EOLhyphen"/>ing methods, found the Content of all the Chimnies, you are next to find the Content of Shafts, to per<g ref="char:EOLhyphen"/>form which, you muſt girt them about in the narroweſt place and take that for the breadth, and their height, for the Length, and multi<g ref="char:EOLhyphen"/>ply one into the other, and the Pro<g ref="char:EOLhyphen"/>duct
+<pb n="128" facs="tcp:133472:73"/> will be the Content, the Shaft or Shafts in the ſame thick<g ref="char:EOLhyphen"/>neſs as their breadth is of, for you muſt underſtand that they are Meaſured as if they were a Solid Peice of Brick-Work which you muſt Reduce into 1 ½ Brick thick.</p>
+                  </div>
+               </div>
+               <div type="method">
+                  <head>How to Meaſure Tyling.</head>
+                  <p>Tyling is Meaſured by the Square, Containing 100 <hi>Feet,</hi> and is in every reſpect the ſame with that of Roofing, taught in Meaſuring Carpenters Work.</p>
+                  <div type="example">
+                     <head>Example.</head>
+                     <p>Admit there is a Roof of a Building that is Tyled the length of which Building, from the out-ſide of the Wall at one End, to the out ſide of the Wall at the other End is 15 <hi>Feet,</hi> and the Breadth from the out-ſide of the one Wall, to the out-ſide of the other, 9 <hi>Feet,</hi> 6 <hi>Inches,</hi> and
+<pb n="129" facs="tcp:133472:73"/> it be required to find the Content of the ſaid Tyling which you will find to be 2 <hi>Squares,</hi> 1 <hi>Foot,</hi> 3 <hi>Inches,</hi> and 81/100 of an <hi>Inch.</hi>
+                     </p>
+                     <p>
+                        <gap reason="math">
+                           <desc>〈 math 〉</desc>
+                        </gap>
+                     </p>
+                     <pb n="130" facs="tcp:133472:74"/>
+                     <p>
+                        <gap reason="math">
+                           <desc>〈 math 〉</desc>
+                        </gap>
+                     </p>
+                     <p>Thus much of Meaſuring of Arti<g ref="char:EOLhyphen"/>ficers Work relating to Building, I preſume what hath been ſaid, is ſufficient for the meaneſt Capacity to underſtand, how to Meaſure any ſort of Building Timber, Stone, or any ſort of Body whatſoever.</p>
+                     <trailer>FINIS.</trailer>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:133472:74"/>
+            <head>
+               <hi>Advertiſement of Choice new Books lately Printed for, and Publiſhed by</hi> Tho. Salusbury <hi>at the</hi> King's Armes <hi>next St.</hi> Dunſtan's Church <hi>in</hi> Fleet<g ref="char:EOLhyphen"/>ſtreet.</head>
+            <p>THE Gazetteer's, or Newſman's Interpre<g ref="char:EOLhyphen"/>ter: Being a Geographical Index of all the Conſiderable <hi>Cities, Patriarchſhips, Biſhopricks, <g ref="char:V">Ʋ</g>niverſities, Dukedoms, Earldoms,</hi> and ſuch like; Imperial and Hance <hi>Towns, Ports, Forts, Castles,</hi> &amp;c. in <hi>Europe.</hi> Shewing in what <hi>Kingdoms, Provinces,</hi> and <hi>Counties</hi> they are in; to what Prince they are now Subject; upon, or nigh what <hi>Rivers, Bays, Seas, Mountains,</hi> &amp;c. they ſtand; their Diſtances (in <hi>Engliſh</hi> Miles) from ſeveral other Places of Note, with their <hi>Longitude</hi> and <hi>Latitude,</hi> according to the beſt and approv<g ref="char:EOLhyphen"/>ed <hi>Maps.</hi> Of ſpecial, uſe for the true Underſtand<g ref="char:EOLhyphen"/>ing of all Modern Hiſtories of <hi>
+                  <g ref="char:V">Ʋ</g>rope,</hi> as well as the Preſent Affares; and for the Conveniency of Cheapneſs and Pocket-Carriage, Explained by Abbreviations and Figures. By <hi>Law. Eachard</hi> A. B. of Chriſt's Colledge in <hi>Cambridge.</hi>
+            </p>
+            <p n="2">2. The Hiſtory of the Late Great Revoluti<g ref="char:EOLhyphen"/>on in <hi>England</hi> and <hi>Scotland.</hi> With the <hi>Cauſes</hi> and <hi>Means</hi> by which it was Accompliſhed. To<g ref="char:EOLhyphen"/>gether with a <hi>Particular Account</hi> of the <hi>Extraor<g ref="char:EOLhyphen"/>dinary Occurrencies</hi> which happned thereupon. As likewiſe the <hi>Settlement</hi> of both the <hi>Kingdoms</hi> under Their Moſt <hi>Serene Majeſties</hi> King <hi>William</hi> and Queen <hi>Mary.</hi> Price 5 <hi>Shillings.</hi>
+            </p>
+            <p n="3">3. <hi>Zingis,</hi> or <hi>Love</hi> prefer'd before <hi>Duty;</hi> a No<g ref="char:EOLhyphen"/>vel, Tranſlated out of <hi>French.</hi> Price Bound 1 <hi>Shilling.</hi>
+            </p>
+            <p n="4">
+               <pb facs="tcp:133472:75"/> 4. Arithmetical Rules digeſted and Contra<g ref="char:EOLhyphen"/>cted, made plain and eaſie for the help and be<g ref="char:EOLhyphen"/>nefit of the Memory. Very neceſſary for all Gentlemen and Tradeſmen, as for Youth and Apprentices in Merchantile Affairs. By <hi>Arthur Leadbetter,</hi> School-Maſter in <hi>Bury</hi> St. <hi>Edmonds</hi> in <hi>Suffolk. Twelves,</hi> Price 1. <hi>s.</hi>
+            </p>
+            <p n="5">5. <hi>Chimichus Rationalis,</hi> or the Fundamental Grounds of the Chimical Art, rationally ſtated and demonſtrated by various Examples in De<g ref="char:EOLhyphen"/>ſtillation, Rectification, and Exaltation of <hi>Wines, Spirits, Tinctures, Oyles, Salts, Powders,</hi> and <hi>Oleoſums,</hi> in ſuch a Method as to retain the Spe<g ref="char:EOLhyphen"/>cifick Vertues of Concerts in the greateſt power and Force. By <hi>W. Yworth,</hi> Spagyrick Phyſitian and Philoſopher by Fire. Price bound 1 <hi>s.</hi>
+            </p>
+            <p n="6">6. A new Art of Brewing <hi>Beer, Ale,</hi> and o<g ref="char:EOLhyphen"/>ther ſorts of Liquors, ſo as to render them more healthful to the Body, and agreeable to Nature, and to keep the longer from ſowring, with leſs Trouble and Charge than generally practiſed. To which is added the Art of making Mault. The third Edition. By <hi>Tho. Tryon,</hi> Student in Phyſick. <hi>Twelves,</hi> Price bound 1 <hi>s.</hi>
+            </p>
+            <p n="7">7. A new Art of making above 20 ſorts of Wines, Brandy, and other Spirits, more pleaſant and agreeable to the <hi>Engliſh</hi> Conſtitution, than thoſe of <hi>France;</hi> compliant to the late Act of Parlament, and Illuſtrated by the Doctrine of Fermentation and Diſtillation, by the various Examples on the <hi>Growth</hi> and <hi>Products</hi> of this Iſland. By <hi>W. Y.</hi> Medicinal Profeſſor. 12<hi>s.</hi> Price bound 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p n="8">8. Wiſdoms Dictares, or Rules Phyſical and Moral, for preſerving the Health of the Body, and the Peace of the Mind. Fit to be regarded and practiſed by all that would enjoy the Bleſſing of this World. To which is added a Bill of Fare of 75 noble Diſhes of Excellent Food, without either Fiſh or Fleſh. <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Tryon,</hi> Student in <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <pb facs="tcp:133472:75"/>
+         </div>
+      </back>
+   </text>
+</TEI>
